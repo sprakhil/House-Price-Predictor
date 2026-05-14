@@ -1,0 +1,1201 @@
+location,area_sqft,bedrooms,bathrooms,balconies,floors,parking,property_age,furnishing_status,property_type,distance_from_city_center,nearby_schools,nearby_hospitals,crime_rate,price
+Greater Noida,1315,2,1,1,18,2,2,Furnished,Apartment,27.8,9,6,8.0,4932000.0
+Ghaziabad,1272,2,1,2,12,2,29,Furnished,Villa,14.9,3,2,2.4,5407000.0
+Noida,2105,4,4,2,12,1,21,Furnished,Independent House,29.0,7,4,2.6,11381000.0
+Ghaziabad,809,1,1,1,11,1,18,Furnished,Apartment,24.1,8,2,1.9,2470000.0
+Ghaziabad,2263,4,3,1,8,0,2,Furnished,Builder Floor,27.9,1,0,7.6,7267000.0
+Gurgaon,1415,2,1,2,7,2,11,Furnished,Independent House,28.7,6,5,7.4,9447000.0
+Noida,1615,3,3,2,23,1,21,Unfurnished,Apartment,3.9,8,5,9.9,6052000.0
+Noida,1879,4,4,1,21,1,4,Unfurnished,Apartment,22.2,8,6,5.7,7474000.0
+Noida,2279,4,4,2,2,1,9,Semi-Furnished,Apartment,1.2,4,1,8.4,9971000.0
+Ghaziabad,1546,2,2,0,11,2,8,Semi-Furnished,Apartment,2.5,0,1,6.2,4829000.0
+Greater Noida,1417,3,3,1,22,1,0,Unfurnished,Independent House,31.7,5,7,8.9,5933000.0
+Noida,1564,3,2,2,10,1,12,Furnished,Villa,18.9,7,0,7.5,9996000.0
+Faridabad,1124,1,1,1,3,1,2,Furnished,Apartment,26.0,0,0,6.8,3052000.0
+Ghaziabad,1201,2,1,2,20,1,18,Unfurnished,Apartment,29.5,1,2,6.1,2763000.0
+Gurgaon,1745,3,2,2,10,1,10,Furnished,Apartment,33.3,0,0,7.5,8166000.0
+Greater Noida,1765,3,2,2,18,1,15,Semi-Furnished,Apartment,30.6,4,7,4.8,5179000.0
+Faridabad,1847,3,3,1,14,1,5,Semi-Furnished,Independent House,17.4,1,6,1.9,5994000.0
+Faridabad,1512,2,1,1,18,2,23,Semi-Furnished,Apartment,12.4,9,2,1.4,4133000.0
+Gurgaon,1718,3,2,1,24,0,2,Semi-Furnished,Apartment,6.3,9,4,5.3,9871000.0
+Greater Noida,1616,3,2,1,8,1,18,Unfurnished,Apartment,14.6,3,1,6.4,4078000.0
+Ghaziabad,1433,3,2,2,10,1,5,Furnished,Builder Floor,13.5,0,1,1.7,5508000.0
+Delhi,2065,4,4,2,22,0,7,Furnished,Apartment,20.0,6,5,3.6,11539000.0
+Greater Noida,1479,3,3,2,13,0,21,Unfurnished,Independent House,23.6,7,5,3.9,5389000.0
+Gurgaon,2212,4,3,3,21,1,12,Semi-Furnished,Apartment,34.3,4,7,6.1,9994000.0
+Faridabad,1251,2,1,2,8,1,11,Furnished,Independent House,25.8,1,6,3.5,4563000.0
+Ghaziabad,1411,3,3,1,4,0,29,Unfurnished,Builder Floor,22.9,7,1,1.9,3758000.0
+Greater Noida,1400,2,2,1,4,0,9,Semi-Furnished,Apartment,12.4,0,7,2.5,4646000.0
+Delhi,1681,3,3,2,5,2,2,Unfurnished,Apartment,2.2,6,6,2.6,10853000.0
+Delhi,1511,3,2,1,1,0,3,Unfurnished,Independent House,10.8,0,4,8.6,8801000.0
+Noida,2177,4,4,0,17,2,0,Semi-Furnished,Villa,27.1,5,4,3.6,15232000.0
+Noida,1267,2,1,1,2,1,12,Semi-Furnished,Apartment,8.0,5,3,7.4,5229000.0
+Gurgaon,1697,3,2,2,8,1,23,Unfurnished,Apartment,25.2,4,2,6.1,5741000.0
+Greater Noida,1716,3,3,1,7,1,3,Furnished,Villa,20.7,1,5,9.8,9600000.0
+Greater Noida,1569,2,1,2,15,2,21,Unfurnished,Builder Floor,6.8,1,2,3.5,5590000.0
+Faridabad,1508,2,2,2,5,1,10,Furnished,Apartment,9.9,8,5,2.4,5352000.0
+Faridabad,1545,2,1,1,2,1,18,Semi-Furnished,Villa,17.9,4,3,1.5,5782000.0
+Faridabad,1364,2,2,0,7,0,10,Semi-Furnished,Apartment,15.2,4,1,3.2,3886000.0
+Noida,1546,2,1,1,8,1,11,Unfurnished,Builder Floor,27.5,6,7,7.2,6263000.0
+Greater Noida,1270,2,1,2,7,1,10,Unfurnished,Apartment,26.0,5,6,1.8,3759000.0
+Greater Noida,1473,2,2,2,7,0,5,Furnished,Apartment,20.5,1,2,3.2,4843000.0
+Delhi,1936,3,3,2,14,0,11,Furnished,Apartment,29.0,0,5,8.7,10153000.0
+Noida,1633,3,3,2,21,2,26,Unfurnished,Independent House,20.1,4,2,6.2,6462000.0
+Ghaziabad,2258,5,5,1,18,1,8,Semi-Furnished,Apartment,33.8,3,1,1.6,6806000.0
+Noida,1650,3,2,1,6,1,24,Furnished,Apartment,8.4,2,6,1.4,6926000.0
+Ghaziabad,1885,4,4,2,4,1,9,Semi-Furnished,Apartment,25.3,1,0,1.6,5031000.0
+Delhi,2189,4,4,1,10,2,2,Semi-Furnished,Builder Floor,13.6,9,5,9.5,13685000.0
+Gurgaon,1579,3,2,1,18,2,2,Unfurnished,Villa,10.5,1,7,8.6,10790000.0
+Greater Noida,1548,3,3,1,12,2,19,Furnished,Apartment,7.1,3,0,8.6,5104000.0
+Delhi,2382,4,4,0,16,0,27,Semi-Furnished,Builder Floor,19.8,1,3,9.3,9933000.0
+Greater Noida,1120,2,1,1,7,2,22,Semi-Furnished,Independent House,8.3,3,6,5.5,4586000.0
+Faridabad,1255,2,2,1,6,1,15,Unfurnished,Builder Floor,7.8,2,4,3.2,3873000.0
+Gurgaon,1708,3,3,1,5,1,2,Semi-Furnished,Apartment,34.7,8,2,4.6,8877000.0
+Gurgaon,1458,3,3,1,3,1,9,Semi-Furnished,Apartment,28.3,6,5,7.5,7018000.0
+Delhi,668,1,1,2,12,0,23,Furnished,Apartment,26.4,2,7,8.9,3296000.0
+Gurgaon,2645,5,5,2,15,2,10,Unfurnished,Apartment,28.0,7,2,4.9,11889000.0
+Ghaziabad,1787,3,3,1,10,0,7,Semi-Furnished,Apartment,33.9,8,3,5.8,5054000.0
+Gurgaon,1485,3,2,2,20,1,5,Furnished,Independent House,20.5,6,3,9.4,9230000.0
+Greater Noida,2426,5,5,1,19,1,19,Semi-Furnished,Apartment,8.5,5,2,2.0,8575000.0
+Greater Noida,1992,3,2,1,16,1,10,Furnished,Apartment,30.3,3,5,8.8,6115000.0
+Greater Noida,2383,5,4,2,11,0,27,Furnished,Builder Floor,26.3,4,7,2.4,8936000.0
+Greater Noida,1721,3,2,2,8,1,26,Unfurnished,Apartment,15.1,7,6,5.4,4306000.0
+Ghaziabad,1317,2,1,2,3,2,20,Semi-Furnished,Independent House,17.1,2,1,3.0,3987000.0
+Noida,2365,4,4,1,23,1,11,Unfurnished,Builder Floor,15.0,1,6,6.4,8907000.0
+Faridabad,1798,3,3,0,7,1,15,Furnished,Apartment,32.6,2,1,6.0,4756000.0
+Delhi,2092,4,4,2,23,1,17,Unfurnished,Independent House,12.7,6,7,4.4,13247000.0
+Greater Noida,2492,5,4,1,7,1,12,Furnished,Builder Floor,33.8,7,4,8.8,9344000.0
+Gurgaon,2284,4,4,1,14,2,21,Semi-Furnished,Builder Floor,31.9,0,6,6.9,9134000.0
+Greater Noida,1846,3,3,2,2,1,2,Unfurnished,Apartment,22.4,6,7,7.5,5506000.0
+Gurgaon,2211,4,4,2,10,1,14,Unfurnished,Apartment,20.7,8,2,2.4,10010000.0
+Faridabad,1907,3,2,2,19,1,21,Semi-Furnished,Independent House,13.6,2,2,8.9,5337000.0
+Faridabad,1643,3,2,1,9,1,27,Semi-Furnished,Apartment,1.6,2,5,2.5,4861000.0
+Faridabad,2219,4,4,2,16,0,20,Unfurnished,Apartment,5.3,7,2,3.0,6283000.0
+Gurgaon,1153,2,1,0,19,1,13,Semi-Furnished,Apartment,26.6,3,5,2.2,5003000.0
+Greater Noida,1823,3,2,0,18,1,17,Unfurnished,Independent House,17.0,7,7,5.0,6481000.0
+Faridabad,2072,4,4,2,9,1,27,Unfurnished,Apartment,6.1,4,2,9.0,5215000.0
+Ghaziabad,1919,3,2,0,16,1,28,Furnished,Independent House,10.0,2,3,3.3,7692000.0
+Gurgaon,1527,3,2,1,13,1,13,Furnished,Builder Floor,33.2,3,0,4.4,8155000.0
+Gurgaon,2172,4,4,2,10,1,4,Semi-Furnished,Independent House,13.5,3,7,8.6,12483000.0
+Greater Noida,1967,3,2,1,20,1,20,Furnished,Villa,31.9,7,2,6.6,9551000.0
+Gurgaon,1958,4,3,1,14,2,13,Furnished,Independent House,11.4,5,0,7.8,11684000.0
+Gurgaon,1570,2,1,1,12,1,24,Unfurnished,Independent House,19.5,6,1,2.9,6860000.0
+Faridabad,1569,2,1,1,19,0,26,Semi-Furnished,Apartment,1.7,8,4,7.4,4726000.0
+Greater Noida,1175,2,1,1,7,0,7,Unfurnished,Builder Floor,18.7,5,6,3.0,3952000.0
+Faridabad,1610,3,2,2,23,2,27,Semi-Furnished,Apartment,22.7,2,6,9.9,3547000.0
+Faridabad,1846,3,2,2,15,1,27,Semi-Furnished,Apartment,9.0,2,7,6.0,4971000.0
+Greater Noida,2385,4,3,1,16,2,22,Furnished,Builder Floor,20.7,2,1,7.3,7970000.0
+Delhi,1566,3,3,2,8,0,14,Semi-Furnished,Builder Floor,23.0,9,2,2.1,9123000.0
+Faridabad,1859,3,3,1,10,2,27,Furnished,Apartment,24.4,1,6,3.3,4384000.0
+Ghaziabad,956,1,1,1,4,2,28,Semi-Furnished,Builder Floor,27.4,0,5,2.3,2477000.0
+Ghaziabad,1703,3,3,2,19,1,14,Unfurnished,Independent House,11.6,9,1,4.5,5721000.0
+Gurgaon,1632,3,2,1,19,0,29,Semi-Furnished,Builder Floor,20.3,0,3,3.6,6623000.0
+Ghaziabad,926,1,1,3,21,1,18,Semi-Furnished,Independent House,34.4,3,0,7.6,2632000.0
+Gurgaon,1181,2,2,1,15,1,25,Semi-Furnished,Independent House,31.5,2,5,2.0,5585000.0
+Delhi,1333,2,1,2,14,1,19,Furnished,Villa,33.4,4,6,7.8,10507000.0
+Greater Noida,628,1,1,1,1,1,5,Semi-Furnished,Builder Floor,14.1,8,5,1.4,2681000.0
+Greater Noida,1492,3,2,1,16,0,18,Furnished,Independent House,27.8,7,2,2.8,6496000.0
+Greater Noida,1329,2,1,1,10,1,26,Furnished,Villa,22.1,8,3,8.1,6108000.0
+Ghaziabad,1583,3,2,2,19,1,24,Furnished,Villa,3.8,4,0,7.7,7945000.0
+Delhi,1894,4,4,1,22,1,7,Semi-Furnished,Apartment,29.0,7,3,5.3,10003000.0
+Ghaziabad,1752,3,2,3,3,0,5,Unfurnished,Apartment,24.0,3,1,1.4,4951000.0
+Ghaziabad,2464,5,5,1,5,2,19,Furnished,Apartment,7.8,4,2,6.5,7583000.0
+Delhi,1418,3,3,1,9,1,22,Semi-Furnished,Apartment,3.7,2,5,4.7,8201000.0
+Delhi,1898,3,2,1,18,1,28,Semi-Furnished,Builder Floor,29.5,4,5,3.8,9585000.0
+Delhi,2338,5,5,2,11,1,14,Furnished,Independent House,3.7,2,1,6.8,17368000.0
+Delhi,1572,2,2,2,16,0,26,Unfurnished,Independent House,4.1,4,5,4.9,9440000.0
+Greater Noida,2724,5,4,1,2,1,2,Semi-Furnished,Apartment,15.5,4,4,1.8,9331000.0
+Noida,854,1,1,2,12,1,9,Semi-Furnished,Independent House,5.6,5,2,9.2,4760000.0
+Noida,1484,3,3,1,22,2,14,Semi-Furnished,Builder Floor,32.1,8,1,8.0,5924000.0
+Delhi,1057,1,1,2,6,1,23,Furnished,Independent House,17.0,0,2,1.5,6115000.0
+Noida,1931,3,2,2,11,1,15,Semi-Furnished,Villa,20.4,9,0,5.7,10291000.0
+Noida,1961,3,2,1,8,2,16,Semi-Furnished,Builder Floor,32.6,5,2,1.8,8670000.0
+Delhi,1491,3,2,1,12,1,18,Unfurnished,Apartment,19.0,0,2,8.5,5406000.0
+Noida,1599,2,2,3,2,2,10,Furnished,Independent House,13.0,5,0,6.5,8099000.0
+Ghaziabad,1068,2,1,2,9,2,15,Semi-Furnished,Apartment,28.1,1,1,2.6,2680000.0
+Gurgaon,636,1,1,2,15,0,4,Semi-Furnished,Apartment,16.1,7,2,1.2,3395000.0
+Gurgaon,1139,2,1,1,2,1,4,Furnished,Independent House,11.8,2,3,1.3,8616000.0
+Delhi,2365,4,4,1,1,1,25,Semi-Furnished,Apartment,25.6,9,2,5.6,10226000.0
+Greater Noida,1177,2,1,1,10,1,13,Unfurnished,Independent House,28.3,5,1,7.6,4311000.0
+Delhi,1936,4,3,2,2,1,17,Unfurnished,Apartment,27.9,5,7,2.1,9469000.0
+Greater Noida,1989,4,4,2,12,2,25,Semi-Furnished,Independent House,34.2,3,5,3.0,6491000.0
+Gurgaon,1341,2,1,1,23,1,7,Unfurnished,Apartment,27.7,4,6,3.9,6244000.0
+Delhi,1958,3,3,1,8,1,4,Unfurnished,Villa,27.2,1,0,3.0,12810000.0
+Faridabad,604,1,1,1,5,0,6,Unfurnished,Independent House,30.2,9,5,4.5,2070000.0
+Ghaziabad,1256,2,1,1,22,1,15,Furnished,Apartment,1.0,9,1,6.0,4647000.0
+Noida,842,1,1,0,1,0,22,Unfurnished,Builder Floor,13.3,7,4,7.2,3222000.0
+Greater Noida,1814,3,3,1,15,1,13,Semi-Furnished,Villa,26.1,9,6,9.7,8154000.0
+Faridabad,1742,3,3,1,6,1,4,Unfurnished,Apartment,21.4,6,5,9.4,4714000.0
+Noida,1778,3,2,1,12,1,23,Semi-Furnished,Apartment,7.0,9,2,6.1,6884000.0
+Noida,1993,3,3,1,8,0,8,Furnished,Apartment,11.3,5,6,7.6,9637000.0
+Delhi,1145,2,1,1,13,1,3,Unfurnished,Builder Floor,12.5,6,2,9.6,6189000.0
+Noida,1722,3,3,0,19,0,3,Semi-Furnished,Independent House,20.3,0,0,1.8,8525000.0
+Ghaziabad,1921,4,4,1,1,1,15,Unfurnished,Builder Floor,29.3,4,2,1.1,5759000.0
+Faridabad,851,1,1,1,11,1,23,Unfurnished,Apartment,32.7,6,6,1.3,1949000.0
+Noida,1310,2,2,1,20,1,16,Semi-Furnished,Apartment,26.5,0,3,6.1,4610000.0
+Delhi,1874,3,3,1,1,1,14,Furnished,Builder Floor,29.7,1,3,7.9,9941000.0
+Ghaziabad,1569,2,2,2,8,0,3,Semi-Furnished,Apartment,17.0,8,7,4.3,5058000.0
+Gurgaon,1891,3,2,3,5,1,5,Furnished,Apartment,14.3,2,5,5.9,10561000.0
+Faridabad,1574,2,2,2,17,0,15,Furnished,Villa,14.4,5,1,5.6,6606000.0
+Noida,1346,2,1,1,8,1,28,Unfurnished,Builder Floor,21.9,6,7,1.9,5215000.0
+Delhi,1486,2,2,2,10,0,3,Furnished,Builder Floor,5.2,8,0,3.9,11550000.0
+Gurgaon,1472,2,2,2,2,1,5,Semi-Furnished,Independent House,20.7,4,4,1.2,8899000.0
+Gurgaon,1781,3,3,0,9,2,4,Unfurnished,Builder Floor,23.6,3,7,2.0,9554000.0
+Greater Noida,1679,3,2,1,24,1,15,Semi-Furnished,Independent House,15.9,1,5,8.3,6107000.0
+Ghaziabad,1871,4,3,2,23,1,29,Furnished,Apartment,33.4,2,1,8.5,4293000.0
+Noida,2320,4,4,1,3,1,24,Unfurnished,Apartment,21.7,4,0,8.2,6168000.0
+Delhi,1765,3,2,0,18,0,15,Furnished,Apartment,8.5,1,6,7.5,10593000.0
+Greater Noida,1893,4,4,2,7,2,9,Unfurnished,Apartment,17.3,3,0,8.1,4700000.0
+Ghaziabad,1372,2,2,2,15,0,8,Unfurnished,Independent House,24.0,0,6,7.0,4489000.0
+Greater Noida,1738,3,2,1,21,2,3,Unfurnished,Apartment,12.0,3,5,7.0,5948000.0
+Faridabad,1836,3,2,1,22,1,28,Semi-Furnished,Apartment,3.7,6,1,7.0,5073000.0
+Ghaziabad,1335,2,1,1,20,1,13,Semi-Furnished,Apartment,20.8,2,7,5.6,3508000.0
+Ghaziabad,1891,3,2,2,18,1,3,Furnished,Apartment,33.2,9,1,4.3,6339000.0
+Noida,1039,2,2,1,3,1,11,Unfurnished,Independent House,17.5,7,2,7.6,4293000.0
+Ghaziabad,1758,3,2,1,23,1,23,Unfurnished,Apartment,31.8,5,4,3.7,4511000.0
+Greater Noida,2373,4,3,2,14,0,9,Semi-Furnished,Builder Floor,29.4,5,3,5.9,9020000.0
+Ghaziabad,2053,4,4,1,24,1,3,Furnished,Apartment,6.0,0,2,4.9,7740000.0
+Noida,1980,3,2,2,2,1,17,Furnished,Builder Floor,25.1,4,0,3.5,8338000.0
+Noida,1797,3,2,1,14,2,12,Furnished,Independent House,15.8,2,4,9.8,8296000.0
+Faridabad,1569,3,2,1,22,1,12,Unfurnished,Apartment,9.5,9,4,3.3,4744000.0
+Greater Noida,1910,3,2,2,11,0,13,Semi-Furnished,Independent House,24.4,0,1,3.8,6914000.0
+Gurgaon,1259,2,2,1,16,1,17,Unfurnished,Apartment,26.3,7,4,2.5,5510000.0
+Gurgaon,1983,3,3,1,8,1,0,Unfurnished,Apartment,7.1,6,5,8.4,9959000.0
+Ghaziabad,1858,3,2,1,7,1,20,Furnished,Villa,32.1,6,4,6.3,8988000.0
+Faridabad,2728,5,4,2,11,1,15,Semi-Furnished,Apartment,26.5,9,0,6.5,6532000.0
+Delhi,1740,3,3,3,3,2,14,Semi-Furnished,Apartment,32.7,9,5,8.4,8726000.0
+Ghaziabad,1456,3,2,3,17,1,21,Semi-Furnished,Independent House,11.8,9,5,4.1,5595000.0
+Faridabad,1617,3,2,1,14,1,24,Unfurnished,Apartment,32.9,3,2,2.7,3604000.0
+Greater Noida,1863,3,2,1,6,1,4,Unfurnished,Independent House,13.5,5,4,2.8,7967000.0
+Greater Noida,1646,3,2,1,8,1,28,Unfurnished,Apartment,2.8,8,1,7.6,5209000.0
+Greater Noida,1372,2,1,2,22,1,5,Furnished,Villa,26.9,2,6,6.5,6921000.0
+Greater Noida,1816,3,2,1,5,1,5,Furnished,Independent House,24.9,8,2,2.9,8939000.0
+Greater Noida,1830,4,3,3,8,0,2,Unfurnished,Builder Floor,21.3,3,1,2.3,5819000.0
+Faridabad,1767,3,2,1,2,2,15,Furnished,Villa,17.7,4,4,2.1,8094000.0
+Faridabad,1558,2,1,3,15,1,11,Semi-Furnished,Apartment,2.1,6,2,6.7,4931000.0
+Noida,1507,3,3,2,12,1,3,Furnished,Villa,22.2,5,4,1.0,11958000.0
+Gurgaon,2383,4,4,2,17,1,0,Semi-Furnished,Apartment,15.2,9,0,1.2,12594000.0
+Greater Noida,1017,1,1,1,1,1,3,Furnished,Apartment,20.0,7,2,4.5,3947000.0
+Delhi,2197,4,3,0,15,0,0,Semi-Furnished,Apartment,15.6,7,1,7.2,12212000.0
+Faridabad,2071,4,3,1,14,1,20,Unfurnished,Builder Floor,33.8,7,0,7.3,5165000.0
+Delhi,1515,3,3,1,20,1,26,Furnished,Apartment,21.5,2,3,4.9,6721000.0
+Delhi,2785,5,4,0,22,2,26,Furnished,Independent House,26.5,9,1,7.2,16781000.0
+Delhi,2055,4,4,1,16,2,7,Semi-Furnished,Independent House,32.8,5,6,5.7,13819000.0
+Noida,1880,4,3,1,9,1,23,Unfurnished,Villa,21.1,6,7,9.8,8146000.0
+Faridabad,1527,3,3,2,1,2,4,Furnished,Apartment,1.4,8,4,2.5,6359000.0
+Delhi,1234,2,2,2,17,1,29,Semi-Furnished,Builder Floor,2.2,9,1,6.4,7203000.0
+Greater Noida,1552,2,2,1,13,0,25,Furnished,Apartment,24.9,9,3,5.4,4476000.0
+Ghaziabad,1580,3,2,3,21,2,1,Unfurnished,Apartment,10.5,3,1,2.8,4828000.0
+Delhi,1156,2,2,1,21,1,11,Semi-Furnished,Apartment,20.7,4,0,7.7,4952000.0
+Noida,1853,3,2,1,5,1,21,Unfurnished,Apartment,7.9,7,5,3.5,7349000.0
+Faridabad,2370,4,3,1,10,1,16,Unfurnished,Independent House,10.2,0,7,4.4,7125000.0
+Noida,1823,4,3,2,6,1,6,Furnished,Builder Floor,18.2,5,1,4.4,8424000.0
+Delhi,1872,3,2,0,24,2,10,Unfurnished,Apartment,34.2,3,2,3.2,9249000.0
+Faridabad,2199,4,3,1,19,0,3,Furnished,Apartment,22.0,4,6,4.9,7080000.0
+Ghaziabad,2391,4,3,2,13,1,4,Unfurnished,Apartment,32.8,4,3,5.3,6360000.0
+Delhi,1533,3,2,1,1,1,5,Semi-Furnished,Apartment,33.6,1,1,7.7,7282000.0
+Noida,1420,2,2,2,20,1,10,Unfurnished,Villa,8.1,7,3,7.9,8461000.0
+Gurgaon,1612,3,3,3,15,1,0,Furnished,Apartment,11.6,1,5,2.4,9069000.0
+Greater Noida,1881,3,3,3,14,0,24,Furnished,Apartment,27.2,3,0,6.3,4950000.0
+Noida,1747,3,2,0,8,0,9,Semi-Furnished,Apartment,30.5,4,2,9.1,6697000.0
+Faridabad,1565,3,2,1,10,1,19,Semi-Furnished,Independent House,18.7,0,4,2.0,4896000.0
+Delhi,947,1,1,1,9,2,23,Furnished,Villa,34.8,5,1,5.3,7559000.0
+Greater Noida,1797,3,2,1,17,0,20,Semi-Furnished,Independent House,1.4,1,0,7.8,7945000.0
+Delhi,2382,4,4,1,9,1,10,Furnished,Builder Floor,11.2,4,7,6.5,17381000.0
+Faridabad,1834,3,2,1,3,1,23,Semi-Furnished,Builder Floor,22.2,5,3,1.9,5286000.0
+Delhi,2776,5,5,3,11,2,16,Unfurnished,Apartment,17.0,7,5,4.6,13197000.0
+Gurgaon,2020,4,3,3,12,2,7,Semi-Furnished,Villa,5.0,8,6,5.6,18140000.0
+Greater Noida,2107,4,4,0,10,1,26,Furnished,Independent House,13.5,5,3,10.0,7642000.0
+Greater Noida,2665,5,4,1,17,1,12,Semi-Furnished,Builder Floor,1.9,4,6,2.6,12481000.0
+Faridabad,1898,4,4,1,17,1,26,Furnished,Independent House,22.9,3,5,9.8,5829000.0
+Gurgaon,1641,3,2,1,11,1,19,Unfurnished,Independent House,31.4,1,6,4.4,8310000.0
+Noida,757,1,1,2,22,1,17,Furnished,Builder Floor,31.1,1,5,2.8,3218000.0
+Delhi,1953,3,2,2,4,1,26,Unfurnished,Villa,24.8,6,0,4.7,12434000.0
+Ghaziabad,1626,3,3,2,7,2,21,Unfurnished,Villa,16.8,4,1,6.5,5791000.0
+Delhi,1422,2,2,2,21,0,15,Unfurnished,Builder Floor,18.4,6,4,2.9,7051000.0
+Delhi,1071,2,1,1,14,2,1,Semi-Furnished,Builder Floor,5.7,0,1,3.6,7280000.0
+Noida,2442,5,5,2,7,1,4,Unfurnished,Apartment,12.6,0,7,8.7,8792000.0
+Delhi,2329,4,3,1,24,1,17,Unfurnished,Builder Floor,7.4,4,7,10.0,12675000.0
+Gurgaon,2388,4,3,2,8,1,2,Semi-Furnished,Apartment,28.9,1,2,3.9,11079000.0
+Gurgaon,1444,3,2,1,1,1,26,Semi-Furnished,Builder Floor,32.1,7,1,2.3,6133000.0
+Greater Noida,1071,1,1,1,24,1,21,Semi-Furnished,Villa,19.3,2,5,8.1,4428000.0
+Faridabad,970,1,1,1,22,2,16,Semi-Furnished,Builder Floor,25.7,0,5,6.4,2550000.0
+Ghaziabad,1091,2,1,1,4,2,15,Semi-Furnished,Apartment,5.1,1,2,1.9,3533000.0
+Delhi,621,1,1,3,12,2,5,Semi-Furnished,Apartment,21.7,9,3,9.5,3142000.0
+Delhi,771,1,1,1,24,0,18,Furnished,Apartment,24.9,9,5,1.7,4049000.0
+Noida,1991,4,4,1,3,2,6,Furnished,Independent House,16.4,6,2,6.6,10204000.0
+Faridabad,1476,3,3,1,13,1,17,Furnished,Apartment,9.3,5,5,4.8,4779000.0
+Gurgaon,1280,2,1,2,20,0,13,Furnished,Apartment,30.8,7,4,6.0,6394000.0
+Ghaziabad,1363,2,1,1,6,0,5,Furnished,Apartment,26.3,6,5,2.9,4843000.0
+Greater Noida,1578,3,2,3,11,0,7,Semi-Furnished,Independent House,31.6,9,0,7.2,6415000.0
+Gurgaon,837,1,1,2,23,0,14,Furnished,Independent House,28.8,7,2,9.6,4597000.0
+Faridabad,2334,5,4,2,4,1,14,Unfurnished,Apartment,34.7,2,6,5.1,5045000.0
+Greater Noida,1679,3,3,2,20,2,14,Furnished,Apartment,7.5,5,7,5.7,6843000.0
+Noida,1418,3,2,0,16,1,15,Furnished,Builder Floor,3.9,6,1,3.2,7905000.0
+Noida,1594,2,2,1,7,1,0,Unfurnished,Builder Floor,12.5,9,2,9.0,6968000.0
+Delhi,970,1,1,2,22,2,10,Semi-Furnished,Builder Floor,5.4,0,3,9.7,6065000.0
+Faridabad,1511,3,2,0,11,1,26,Furnished,Apartment,18.8,0,5,8.1,3711000.0
+Ghaziabad,1620,3,3,1,24,2,28,Unfurnished,Builder Floor,22.5,6,2,5.9,3793000.0
+Greater Noida,1703,3,2,2,1,1,24,Unfurnished,Apartment,20.7,2,4,9.6,4306000.0
+Gurgaon,1324,2,2,1,7,1,4,Semi-Furnished,Independent House,9.8,2,2,2.4,8350000.0
+Faridabad,1836,3,2,3,12,1,4,Semi-Furnished,Builder Floor,31.9,4,4,5.3,5896000.0
+Faridabad,1837,3,2,1,7,1,28,Unfurnished,Apartment,1.7,5,7,5.8,5428000.0
+Noida,1969,4,4,2,23,0,27,Semi-Furnished,Apartment,12.8,1,7,5.4,6863000.0
+Delhi,1374,2,1,1,7,1,20,Semi-Furnished,Builder Floor,25.4,2,5,8.2,6296000.0
+Delhi,1556,2,2,2,10,1,5,Unfurnished,Independent House,27.1,5,1,7.0,8917000.0
+Greater Noida,1780,3,2,1,16,2,1,Furnished,Builder Floor,15.1,2,5,2.1,7810000.0
+Noida,1413,3,2,1,8,1,5,Semi-Furnished,Builder Floor,1.6,4,3,4.1,7712000.0
+Faridabad,1899,3,2,2,9,0,13,Furnished,Independent House,22.0,8,0,4.1,6284000.0
+Ghaziabad,1790,3,3,1,9,1,10,Unfurnished,Builder Floor,3.1,2,1,6.1,6144000.0
+Noida,1948,3,3,1,2,0,3,Semi-Furnished,Apartment,4.7,5,1,3.6,9732000.0
+Greater Noida,2364,4,3,1,13,1,23,Semi-Furnished,Independent House,23.1,4,7,2.1,8937000.0
+Greater Noida,1929,3,3,2,13,2,28,Furnished,Apartment,11.6,4,0,6.9,5718000.0
+Noida,2691,5,4,1,23,1,26,Furnished,Apartment,12.8,5,2,8.7,10721000.0
+Greater Noida,1949,3,3,3,23,0,24,Semi-Furnished,Villa,17.6,5,5,9.4,7718000.0
+Noida,2584,5,5,1,4,1,8,Unfurnished,Apartment,34.3,0,2,9.8,8409000.0
+Gurgaon,1995,4,3,1,24,1,23,Semi-Furnished,Apartment,33.8,8,2,8.0,7770000.0
+Noida,1299,2,1,2,12,2,2,Furnished,Apartment,15.2,4,5,2.3,6378000.0
+Noida,2346,4,3,2,17,0,25,Unfurnished,Villa,10.0,0,3,8.7,11813000.0
+Greater Noida,1307,2,1,2,2,1,15,Furnished,Apartment,11.3,7,1,4.6,4682000.0
+Greater Noida,2051,4,3,3,13,1,10,Unfurnished,Apartment,10.1,6,4,7.6,6441000.0
+Delhi,1407,3,3,1,18,0,26,Furnished,Apartment,19.1,6,0,5.8,6578000.0
+Delhi,807,1,1,1,15,1,3,Semi-Furnished,Apartment,21.6,4,1,8.5,3855000.0
+Gurgaon,1530,3,2,0,8,1,0,Furnished,Apartment,17.6,0,2,4.8,7787000.0
+Delhi,2225,5,4,2,15,2,24,Unfurnished,Apartment,14.9,8,0,1.6,9292000.0
+Noida,1053,1,1,2,1,2,20,Semi-Furnished,Builder Floor,8.2,8,4,6.0,5066000.0
+Greater Noida,1585,3,3,1,20,1,21,Furnished,Apartment,17.4,7,1,2.5,5230000.0
+Delhi,1883,3,2,1,10,1,15,Semi-Furnished,Apartment,12.6,4,1,9.7,8278000.0
+Delhi,1850,4,3,0,12,1,18,Furnished,Apartment,19.4,2,3,5.7,9687000.0
+Gurgaon,1404,3,3,2,5,2,15,Furnished,Apartment,24.0,7,1,6.0,6501000.0
+Faridabad,1588,2,2,1,9,2,10,Unfurnished,Builder Floor,22.5,0,1,9.2,3594000.0
+Gurgaon,759,1,1,1,23,2,25,Semi-Furnished,Independent House,16.7,2,4,6.6,3552000.0
+Noida,1607,3,3,1,8,1,7,Unfurnished,Apartment,19.9,6,4,3.7,6212000.0
+Greater Noida,1656,3,2,2,16,1,22,Semi-Furnished,Apartment,10.7,3,0,3.7,4966000.0
+Gurgaon,2404,5,5,2,14,2,0,Semi-Furnished,Apartment,1.8,6,2,5.5,15824000.0
+Delhi,610,1,1,2,13,1,25,Furnished,Independent House,22.3,4,4,8.8,3394000.0
+Greater Noida,1407,3,2,1,23,1,27,Furnished,Independent House,9.6,5,0,8.2,6165000.0
+Greater Noida,1008,1,1,1,21,1,20,Unfurnished,Builder Floor,23.7,6,1,9.7,2858000.0
+Delhi,1031,2,1,2,13,0,25,Unfurnished,Apartment,26.4,9,7,1.6,4347000.0
+Gurgaon,1939,3,3,3,5,0,8,Furnished,Villa,32.1,6,0,3.4,16050000.0
+Delhi,1786,3,2,1,16,1,27,Furnished,Apartment,33.6,6,7,1.7,9513000.0
+Faridabad,1627,3,3,0,11,1,26,Semi-Furnished,Apartment,1.4,6,0,7.8,4374000.0
+Greater Noida,2274,4,4,0,22,2,11,Unfurnished,Apartment,34.7,6,0,2.3,6312000.0
+Ghaziabad,1606,3,3,1,5,0,21,Furnished,Apartment,24.2,2,7,1.9,4321000.0
+Ghaziabad,2517,5,4,2,13,0,7,Semi-Furnished,Villa,22.9,2,5,6.1,11515000.0
+Noida,2356,4,4,0,11,0,25,Unfurnished,Independent House,1.5,6,0,4.7,11569000.0
+Delhi,1747,3,2,1,19,0,16,Furnished,Apartment,30.3,1,7,7.4,8391000.0
+Delhi,2033,4,3,1,3,0,9,Furnished,Builder Floor,5.9,1,4,5.4,13811000.0
+Noida,1443,3,2,0,15,1,26,Semi-Furnished,Villa,29.5,2,6,4.8,7209000.0
+Noida,741,1,1,1,7,1,6,Unfurnished,Independent House,1.5,3,6,4.8,4399000.0
+Noida,1575,3,3,1,7,1,18,Furnished,Builder Floor,23.0,5,6,8.8,6897000.0
+Greater Noida,1048,1,1,1,6,2,24,Semi-Furnished,Villa,15.8,7,6,4.6,5124000.0
+Faridabad,1991,3,2,2,3,1,5,Semi-Furnished,Villa,7.8,9,5,4.0,10552000.0
+Delhi,1481,3,3,1,13,0,20,Semi-Furnished,Independent House,4.7,9,2,4.0,10614000.0
+Greater Noida,734,1,1,1,7,0,23,Semi-Furnished,Apartment,16.0,6,7,2.8,2170000.0
+Noida,1176,2,2,3,5,2,23,Semi-Furnished,Apartment,5.2,3,0,8.7,4582000.0
+Delhi,2182,4,4,2,23,1,27,Semi-Furnished,Independent House,17.5,1,3,2.3,11079000.0
+Greater Noida,1642,3,3,2,18,2,27,Semi-Furnished,Apartment,22.3,1,6,9.2,3991000.0
+Faridabad,1566,2,1,0,22,2,18,Semi-Furnished,Independent House,29.1,3,1,3.6,4921000.0
+Greater Noida,1540,3,2,0,8,2,17,Semi-Furnished,Apartment,24.1,5,6,9.1,4131000.0
+Faridabad,1856,3,2,0,17,2,14,Unfurnished,Apartment,3.2,2,6,8.1,5130000.0
+Noida,1839,3,2,1,20,1,1,Furnished,Apartment,11.5,5,1,6.2,9189000.0
+Faridabad,2255,5,5,1,1,1,13,Unfurnished,Apartment,10.8,4,5,7.0,5733000.0
+Delhi,1926,3,2,3,14,2,20,Unfurnished,Villa,32.1,4,1,3.9,12180000.0
+Noida,1418,2,2,1,17,1,9,Furnished,Independent House,30.5,1,1,6.2,6794000.0
+Delhi,1887,4,3,1,10,0,27,Semi-Furnished,Independent House,13.6,7,5,3.6,11438000.0
+Ghaziabad,1807,4,3,2,12,1,15,Semi-Furnished,Builder Floor,3.4,4,1,4.6,6263000.0
+Gurgaon,1476,2,1,1,16,1,6,Furnished,Apartment,31.4,1,0,7.9,7247000.0
+Faridabad,1214,2,2,2,14,2,7,Semi-Furnished,Builder Floor,31.2,6,6,3.2,3609000.0
+Gurgaon,1551,2,2,2,16,1,9,Furnished,Builder Floor,30.1,8,2,8.5,8745000.0
+Gurgaon,1896,3,2,2,8,1,14,Furnished,Builder Floor,29.7,8,5,4.4,9945000.0
+Faridabad,1902,3,3,3,23,2,7,Unfurnished,Apartment,17.3,0,3,5.8,4428000.0
+Noida,1644,3,2,1,10,2,12,Furnished,Builder Floor,7.0,6,5,9.5,8254000.0
+Ghaziabad,2677,5,4,1,17,1,11,Unfurnished,Apartment,17.2,8,4,7.1,6627000.0
+Delhi,2108,4,3,3,18,1,7,Semi-Furnished,Villa,17.8,5,3,6.8,15870000.0
+Greater Noida,1230,2,2,2,20,1,14,Unfurnished,Independent House,17.7,0,4,7.4,3926000.0
+Delhi,1382,2,1,1,16,1,25,Semi-Furnished,Apartment,19.3,1,7,9.3,5519000.0
+Greater Noida,1554,3,2,3,17,0,11,Furnished,Builder Floor,9.8,3,7,3.2,6492000.0
+Delhi,1174,2,1,0,16,1,10,Semi-Furnished,Independent House,13.5,3,5,6.5,8301000.0
+Faridabad,1514,3,3,3,19,1,18,Furnished,Apartment,15.8,1,4,4.6,3962000.0
+Ghaziabad,2189,4,3,0,24,1,13,Semi-Furnished,Independent House,5.5,7,3,1.1,9855000.0
+Greater Noida,1310,2,2,1,24,1,26,Unfurnished,Independent House,16.5,1,0,2.1,3743000.0
+Noida,1699,3,2,2,8,0,17,Furnished,Apartment,28.6,2,5,3.9,6657000.0
+Delhi,1817,4,4,1,6,1,12,Semi-Furnished,Apartment,29.2,3,5,6.1,9230000.0
+Delhi,1411,3,2,1,6,1,3,Unfurnished,Apartment,15.0,8,1,8.9,6835000.0
+Greater Noida,1403,2,1,1,21,1,16,Unfurnished,Apartment,18.6,9,5,8.1,3731000.0
+Noida,1631,3,3,3,9,0,18,Semi-Furnished,Apartment,2.1,0,6,6.0,6618000.0
+Noida,877,1,1,2,4,1,26,Furnished,Independent House,23.9,7,7,1.7,4507000.0
+Faridabad,2552,5,4,2,12,2,8,Semi-Furnished,Apartment,14.8,4,6,3.6,7018000.0
+Faridabad,902,1,1,2,12,1,22,Furnished,Apartment,16.1,6,5,4.3,2491000.0
+Faridabad,1940,3,2,2,23,0,6,Unfurnished,Villa,30.7,7,7,6.6,7400000.0
+Faridabad,1869,3,2,1,17,1,0,Unfurnished,Independent House,16.7,4,7,1.6,6430000.0
+Faridabad,2276,5,4,1,15,2,6,Unfurnished,Apartment,1.7,7,0,5.8,6939000.0
+Faridabad,1520,2,2,2,9,1,25,Unfurnished,Apartment,8.7,9,1,9.1,3797000.0
+Ghaziabad,1023,2,1,1,7,1,6,Furnished,Apartment,17.2,7,2,7.3,3383000.0
+Noida,614,1,1,0,10,1,19,Unfurnished,Builder Floor,15.4,8,4,8.2,2244000.0
+Faridabad,1524,2,1,0,16,1,6,Unfurnished,Apartment,30.3,1,3,7.1,3448000.0
+Noida,1346,2,2,1,12,2,7,Furnished,Builder Floor,19.4,2,2,2.9,6253000.0
+Noida,1571,3,3,2,7,1,15,Unfurnished,Villa,24.4,0,1,2.0,7668000.0
+Gurgaon,1326,2,1,1,18,1,2,Furnished,Apartment,17.0,3,6,8.5,6972000.0
+Ghaziabad,1084,1,1,2,15,1,12,Semi-Furnished,Independent House,15.9,4,6,7.3,3521000.0
+Faridabad,2288,4,3,1,6,0,9,Unfurnished,Villa,16.2,0,6,6.2,8940000.0
+Delhi,1461,2,1,1,12,1,17,Semi-Furnished,Apartment,15.0,7,0,2.7,7157000.0
+Greater Noida,1377,2,1,1,11,1,6,Furnished,Independent House,19.3,1,7,6.4,6290000.0
+Delhi,1587,2,1,2,20,0,20,Semi-Furnished,Builder Floor,9.5,0,6,1.3,8358000.0
+Ghaziabad,2363,5,4,2,3,0,20,Semi-Furnished,Villa,31.3,1,3,2.1,8945000.0
+Greater Noida,1371,2,2,3,2,0,29,Unfurnished,Builder Floor,12.3,4,4,3.8,4028000.0
+Ghaziabad,2372,4,3,2,6,2,4,Semi-Furnished,Builder Floor,6.0,8,5,5.0,10217000.0
+Noida,2223,4,4,2,24,1,22,Semi-Furnished,Builder Floor,4.3,8,5,2.1,10787000.0
+Greater Noida,1076,1,1,2,22,2,24,Unfurnished,Independent House,1.5,1,2,2.1,4589000.0
+Noida,2581,5,4,3,5,0,26,Semi-Furnished,Independent House,15.4,1,4,7.5,10662000.0
+Delhi,1154,2,2,2,18,2,23,Semi-Furnished,Builder Floor,7.4,2,1,6.1,6394000.0
+Delhi,856,1,1,0,16,0,21,Semi-Furnished,Independent House,1.7,6,4,5.8,6678000.0
+Greater Noida,1867,4,4,1,8,1,6,Unfurnished,Apartment,18.7,2,0,5.1,5373000.0
+Greater Noida,1743,3,3,2,20,2,24,Semi-Furnished,Apartment,24.1,0,2,9.8,4263000.0
+Faridabad,1676,3,3,2,22,1,29,Semi-Furnished,Apartment,3.9,5,2,1.4,5070000.0
+Ghaziabad,1390,2,1,1,11,1,26,Furnished,Apartment,16.7,2,0,2.6,3736000.0
+Faridabad,1848,3,3,2,10,0,21,Furnished,Apartment,26.3,0,4,6.8,4871000.0
+Ghaziabad,2058,4,3,3,24,0,16,Furnished,Villa,34.5,3,6,2.2,9595000.0
+Faridabad,1306,2,2,1,12,1,3,Furnished,Apartment,23.7,0,0,6.3,3862000.0
+Noida,1094,2,2,2,21,1,23,Semi-Furnished,Builder Floor,9.3,0,6,6.1,3968000.0
+Greater Noida,1063,1,1,0,6,1,22,Unfurnished,Apartment,25.4,1,3,9.7,2415000.0
+Delhi,1245,2,2,0,20,1,15,Semi-Furnished,Independent House,21.3,9,0,9.0,6556000.0
+Ghaziabad,1986,4,3,1,5,1,18,Unfurnished,Villa,8.2,7,6,9.5,8081000.0
+Ghaziabad,1772,3,2,0,23,0,9,Unfurnished,Apartment,29.9,1,4,2.0,4922000.0
+Delhi,2771,5,5,2,9,0,2,Unfurnished,Independent House,15.5,1,6,8.8,17273000.0
+Faridabad,1405,2,2,0,16,2,26,Semi-Furnished,Apartment,33.7,9,0,2.2,3462000.0
+Ghaziabad,1807,3,2,1,22,0,2,Semi-Furnished,Independent House,25.6,9,1,6.7,7162000.0
+Noida,1124,2,1,1,14,1,27,Semi-Furnished,Apartment,22.9,7,5,7.5,3541000.0
+Greater Noida,1336,2,1,1,22,0,16,Furnished,Villa,25.8,5,0,2.4,6546000.0
+Delhi,1340,2,1,0,8,1,9,Semi-Furnished,Apartment,17.3,3,5,6.7,6683000.0
+Greater Noida,1562,2,2,2,20,1,16,Unfurnished,Builder Floor,18.2,2,0,1.5,4832000.0
+Ghaziabad,1577,3,3,1,19,1,21,Unfurnished,Independent House,29.9,0,4,3.6,4160000.0
+Ghaziabad,2369,5,4,2,14,1,29,Furnished,Apartment,24.2,2,3,9.3,6399000.0
+Delhi,1438,3,2,2,7,1,29,Semi-Furnished,Apartment,31.5,8,3,2.5,6758000.0
+Noida,1068,2,1,0,5,1,16,Unfurnished,Apartment,31.3,4,5,1.6,4053000.0
+Gurgaon,835,1,1,2,18,0,20,Furnished,Apartment,34.2,5,7,5.0,3926000.0
+Delhi,1559,2,1,0,2,1,3,Semi-Furnished,Builder Floor,24.8,4,7,8.7,8836000.0
+Gurgaon,1780,3,2,1,11,0,20,Unfurnished,Apartment,18.1,0,4,1.7,7026000.0
+Faridabad,1856,4,4,0,22,2,22,Semi-Furnished,Apartment,6.7,9,6,4.2,5855000.0
+Gurgaon,2476,5,5,1,8,1,5,Furnished,Apartment,25.0,0,4,9.1,11216000.0
+Noida,698,1,1,1,1,0,11,Semi-Furnished,Independent House,10.9,3,7,2.1,4039000.0
+Faridabad,1926,3,2,2,22,1,24,Unfurnished,Apartment,10.6,2,4,3.8,4957000.0
+Gurgaon,1724,3,2,1,12,1,21,Semi-Furnished,Apartment,9.1,7,1,8.0,7227000.0
+Faridabad,1860,3,2,2,2,1,24,Furnished,Apartment,30.8,6,2,5.9,4554000.0
+Gurgaon,1578,3,3,1,18,1,19,Semi-Furnished,Apartment,30.5,6,7,8.5,6578000.0
+Noida,1973,3,2,2,7,1,16,Semi-Furnished,Independent House,22.5,7,7,2.0,9456000.0
+Gurgaon,1518,3,2,1,17,1,16,Semi-Furnished,Apartment,17.1,9,0,9.3,6280000.0
+Gurgaon,1468,2,2,1,22,0,9,Unfurnished,Apartment,23.9,6,4,9.4,5728000.0
+Gurgaon,2348,4,3,1,23,1,6,Furnished,Independent House,21.6,9,4,2.4,16899000.0
+Delhi,1454,2,2,1,14,1,28,Unfurnished,Independent House,15.1,1,4,1.3,7804000.0
+Delhi,1425,3,3,1,24,1,15,Furnished,Apartment,13.9,3,3,9.9,7123000.0
+Delhi,1889,3,2,2,7,1,28,Semi-Furnished,Independent House,14.0,5,4,5.3,11339000.0
+Noida,1407,3,3,0,22,1,12,Furnished,Villa,21.0,2,7,6.1,8315000.0
+Faridabad,2315,4,3,2,3,1,2,Semi-Furnished,Apartment,23.0,2,0,6.5,5676000.0
+Ghaziabad,2332,4,4,2,6,2,1,Semi-Furnished,Independent House,16.4,5,6,8.1,9028000.0
+Gurgaon,1948,4,3,2,20,1,15,Semi-Furnished,Independent House,33.9,0,6,8.3,10342000.0
+Gurgaon,1887,3,3,1,2,1,29,Furnished,Apartment,3.9,0,4,2.7,9719000.0
+Noida,1424,3,2,1,17,1,5,Semi-Furnished,Apartment,12.8,4,0,3.1,5816000.0
+Gurgaon,1954,3,3,3,12,2,5,Furnished,Apartment,15.2,0,1,8.9,8782000.0
+Delhi,2224,4,4,2,12,0,12,Unfurnished,Independent House,1.6,9,6,8.4,15844000.0
+Ghaziabad,1692,3,3,1,17,1,6,Unfurnished,Villa,13.4,7,7,6.6,7592000.0
+Greater Noida,2384,5,4,1,10,1,4,Semi-Furnished,Builder Floor,10.3,1,2,10.0,8849000.0
+Gurgaon,2753,5,4,1,3,0,23,Semi-Furnished,Apartment,18.2,5,3,7.6,10212000.0
+Delhi,1830,3,3,2,20,0,6,Semi-Furnished,Builder Floor,12.4,9,0,2.9,12285000.0
+Greater Noida,1316,2,1,2,18,1,1,Furnished,Builder Floor,25.7,9,6,8.6,5013000.0
+Ghaziabad,1397,2,2,1,13,1,16,Semi-Furnished,Apartment,18.3,4,6,4.7,4071000.0
+Greater Noida,2123,4,3,2,12,1,12,Unfurnished,Apartment,5.4,9,5,1.3,8609000.0
+Delhi,1564,2,2,2,17,2,29,Semi-Furnished,Independent House,26.5,3,1,3.9,8347000.0
+Faridabad,2395,4,3,1,4,0,24,Furnished,Apartment,4.4,0,2,7.9,6476000.0
+Faridabad,1945,3,3,2,23,0,20,Unfurnished,Independent House,29.5,2,2,9.6,4987000.0
+Greater Noida,1475,3,3,2,10,1,27,Semi-Furnished,Apartment,32.7,3,2,3.5,4081000.0
+Noida,2285,4,4,1,11,1,26,Unfurnished,Apartment,12.0,1,7,3.2,7909000.0
+Greater Noida,1487,3,3,2,6,1,20,Semi-Furnished,Apartment,32.5,1,0,6.1,3857000.0
+Gurgaon,1631,3,2,1,6,0,27,Semi-Furnished,Apartment,28.0,1,1,8.3,5633000.0
+Gurgaon,1406,3,3,1,9,1,15,Furnished,Villa,32.4,0,4,7.7,10152000.0
+Faridabad,1549,2,1,1,15,1,25,Furnished,Apartment,23.7,9,5,6.0,4419000.0
+Noida,1851,4,3,1,2,1,19,Unfurnished,Independent House,9.0,1,1,6.7,7936000.0
+Delhi,1395,2,2,1,4,1,1,Furnished,Builder Floor,31.4,5,1,3.2,9977000.0
+Gurgaon,2420,5,4,1,5,1,4,Unfurnished,Independent House,7.3,2,6,4.9,15940000.0
+Faridabad,2227,4,3,2,17,1,17,Semi-Furnished,Apartment,8.2,9,1,3.3,6846000.0
+Ghaziabad,1142,2,1,1,8,0,27,Furnished,Independent House,10.2,4,0,9.0,4147000.0
+Faridabad,1762,3,3,2,8,0,6,Furnished,Independent House,11.3,0,5,2.0,7591000.0
+Gurgaon,1781,3,2,0,22,1,10,Furnished,Apartment,18.5,7,0,7.1,8360000.0
+Gurgaon,1560,2,1,3,12,1,24,Unfurnished,Apartment,25.3,3,5,3.3,5988000.0
+Faridabad,2476,5,5,2,21,1,24,Semi-Furnished,Independent House,32.5,8,5,5.3,7633000.0
+Delhi,870,1,1,0,8,1,10,Semi-Furnished,Villa,4.0,3,6,3.7,8399000.0
+Greater Noida,1013,2,1,2,19,1,21,Semi-Furnished,Apartment,33.4,1,0,3.9,2591000.0
+Gurgaon,1697,3,3,1,3,2,16,Furnished,Independent House,32.3,2,5,3.3,10652000.0
+Faridabad,1863,3,2,2,18,1,15,Semi-Furnished,Villa,2.8,4,1,7.8,8999000.0
+Faridabad,1926,3,2,1,21,0,12,Furnished,Independent House,13.3,9,0,4.3,6999000.0
+Noida,2033,4,3,2,19,0,21,Unfurnished,Villa,28.6,5,5,7.5,10556000.0
+Greater Noida,1974,3,3,2,19,1,4,Semi-Furnished,Independent House,21.8,6,7,5.1,8991000.0
+Ghaziabad,1426,3,2,1,15,1,19,Semi-Furnished,Apartment,27.5,3,2,5.9,3558000.0
+Delhi,1070,1,1,0,6,0,15,Semi-Furnished,Apartment,25.4,6,0,5.9,4757000.0
+Ghaziabad,1092,2,2,2,16,1,27,Semi-Furnished,Apartment,17.9,9,6,9.8,2809000.0
+Greater Noida,1308,2,1,1,8,0,21,Unfurnished,Independent House,2.4,2,7,4.3,5820000.0
+Greater Noida,1051,2,2,1,16,1,21,Semi-Furnished,Independent House,20.9,6,7,2.9,3823000.0
+Greater Noida,1718,3,3,0,18,1,15,Furnished,Apartment,2.7,3,3,9.2,6417000.0
+Ghaziabad,1180,2,2,1,20,1,15,Semi-Furnished,Independent House,21.5,7,0,2.6,3995000.0
+Greater Noida,1568,2,2,3,16,0,13,Furnished,Independent House,28.2,8,7,8.5,6807000.0
+Faridabad,1119,2,2,1,11,2,5,Furnished,Builder Floor,20.9,6,0,2.4,3662000.0
+Ghaziabad,2242,5,4,1,7,1,1,Unfurnished,Apartment,34.9,7,0,6.9,6071000.0
+Greater Noida,2459,5,5,2,17,1,13,Unfurnished,Builder Floor,16.5,7,5,2.4,8162000.0
+Faridabad,1596,3,2,2,17,0,15,Unfurnished,Apartment,26.5,1,0,9.3,3448000.0
+Noida,2054,4,3,1,12,1,22,Semi-Furnished,Apartment,23.7,8,3,6.1,6931000.0
+Greater Noida,2135,4,3,1,13,2,29,Semi-Furnished,Apartment,34.7,5,4,4.0,6176000.0
+Ghaziabad,1952,3,2,3,10,2,19,Furnished,Apartment,25.2,3,0,2.3,5931000.0
+Gurgaon,1101,1,1,2,7,1,12,Furnished,Apartment,6.6,4,2,4.3,6374000.0
+Greater Noida,2054,4,3,1,14,2,14,Unfurnished,Builder Floor,33.5,9,3,7.3,6100000.0
+Gurgaon,1913,3,3,0,23,0,11,Semi-Furnished,Apartment,23.7,4,4,4.5,9302000.0
+Faridabad,1641,3,3,1,1,0,8,Unfurnished,Independent House,3.0,6,5,3.2,6741000.0
+Noida,1948,4,4,1,17,2,25,Unfurnished,Apartment,23.4,8,0,6.2,6015000.0
+Delhi,1698,3,2,1,4,1,17,Furnished,Villa,31.0,6,4,4.8,13461000.0
+Noida,1852,3,3,2,21,1,20,Semi-Furnished,Villa,20.6,8,2,2.5,9663000.0
+Greater Noida,2592,5,5,0,5,1,13,Semi-Furnished,Apartment,13.0,3,3,2.4,9247000.0
+Gurgaon,1211,2,2,2,20,2,19,Furnished,Apartment,28.9,9,3,7.4,5651000.0
+Gurgaon,1937,3,2,1,24,1,24,Unfurnished,Apartment,27.6,9,5,9.8,7250000.0
+Ghaziabad,1993,3,3,2,23,2,3,Semi-Furnished,Builder Floor,19.5,3,5,3.1,6453000.0
+Gurgaon,1994,3,2,2,7,1,7,Furnished,Builder Floor,6.2,5,5,8.0,13042000.0
+Ghaziabad,1930,4,4,0,10,0,7,Semi-Furnished,Apartment,9.5,7,4,1.8,7301000.0
+Faridabad,928,1,1,1,17,2,21,Unfurnished,Builder Floor,26.1,8,0,4.4,2205000.0
+Delhi,1655,3,2,1,7,0,21,Furnished,Apartment,28.4,0,1,5.6,7455000.0
+Greater Noida,1478,2,1,2,1,2,15,Unfurnished,Apartment,10.5,0,7,3.4,4120000.0
+Ghaziabad,1960,3,3,2,7,1,26,Furnished,Builder Floor,13.5,7,3,5.8,6239000.0
+Delhi,1462,3,3,1,24,1,23,Unfurnished,Apartment,3.6,6,1,8.9,7515000.0
+Gurgaon,2110,4,3,1,11,1,27,Unfurnished,Builder Floor,25.3,8,6,9.5,8773000.0
+Gurgaon,1406,2,2,1,9,0,28,Semi-Furnished,Apartment,1.1,2,3,1.9,7593000.0
+Delhi,1504,3,2,2,12,1,27,Semi-Furnished,Villa,2.6,9,7,3.4,14281000.0
+Gurgaon,1014,2,1,1,3,2,9,Unfurnished,Apartment,1.1,4,5,9.8,5428000.0
+Faridabad,2058,4,4,1,4,2,24,Semi-Furnished,Apartment,22.9,2,7,3.4,4872000.0
+Faridabad,2211,4,4,1,4,1,20,Unfurnished,Builder Floor,15.2,4,0,7.2,5496000.0
+Delhi,2458,5,5,0,13,2,26,Furnished,Apartment,11.1,9,0,3.3,12760000.0
+Ghaziabad,2059,4,3,2,23,2,16,Unfurnished,Villa,32.0,0,3,4.2,7136000.0
+Ghaziabad,1844,4,3,0,19,1,0,Unfurnished,Independent House,7.6,3,4,2.7,8568000.0
+Delhi,1330,2,2,2,10,0,17,Unfurnished,Builder Floor,14.2,5,6,8.7,6146000.0
+Ghaziabad,1164,2,1,1,5,2,9,Furnished,Independent House,33.0,1,7,8.9,3981000.0
+Ghaziabad,1592,3,3,1,7,1,25,Semi-Furnished,Villa,15.5,6,5,3.7,6637000.0
+Faridabad,2320,4,3,2,24,2,20,Semi-Furnished,Villa,19.9,7,0,8.4,8541000.0
+Ghaziabad,2200,4,4,3,16,2,3,Semi-Furnished,Independent House,3.7,0,6,4.2,9981000.0
+Noida,1373,2,2,2,1,2,0,Semi-Furnished,Independent House,27.9,3,6,1.9,7157000.0
+Greater Noida,1864,4,3,1,12,1,3,Furnished,Apartment,15.4,3,0,7.8,6945000.0
+Gurgaon,1786,3,3,1,2,1,3,Unfurnished,Apartment,28.2,4,2,6.4,8041000.0
+Noida,1894,3,3,2,7,1,25,Semi-Furnished,Builder Floor,9.6,3,7,3.5,8383000.0
+Ghaziabad,1414,2,1,1,11,1,3,Furnished,Apartment,15.4,8,6,3.3,4756000.0
+Faridabad,629,1,1,1,13,0,16,Semi-Furnished,Apartment,27.7,6,0,9.8,1404000.0
+Delhi,1665,3,2,2,2,1,8,Semi-Furnished,Apartment,34.1,1,2,8.8,7439000.0
+Ghaziabad,1727,3,3,2,7,1,29,Furnished,Apartment,3.0,0,0,8.3,4872000.0
+Faridabad,1491,2,1,3,15,2,18,Unfurnished,Independent House,28.6,8,0,2.2,4059000.0
+Greater Noida,1616,3,3,3,11,0,12,Unfurnished,Villa,11.2,0,6,7.8,6922000.0
+Ghaziabad,2119,4,4,2,2,1,3,Semi-Furnished,Apartment,19.7,5,4,2.9,6824000.0
+Delhi,2198,4,4,0,7,0,4,Furnished,Builder Floor,10.9,1,4,9.8,14794000.0
+Faridabad,1904,4,4,1,4,0,28,Unfurnished,Independent House,21.9,3,5,1.5,5592000.0
+Faridabad,1329,2,1,2,11,0,12,Semi-Furnished,Apartment,13.0,5,7,4.2,3645000.0
+Faridabad,1046,2,1,1,2,1,22,Semi-Furnished,Independent House,12.3,4,0,4.9,3242000.0
+Greater Noida,1998,3,2,1,16,0,15,Semi-Furnished,Apartment,2.3,5,7,8.4,7224000.0
+Ghaziabad,1713,3,2,1,7,1,21,Semi-Furnished,Apartment,6.0,2,5,7.9,4977000.0
+Greater Noida,746,1,1,1,13,1,4,Semi-Furnished,Villa,32.2,4,5,4.4,3891000.0
+Gurgaon,1461,2,1,2,5,2,7,Semi-Furnished,Apartment,34.9,1,5,6.1,6491000.0
+Gurgaon,1983,3,2,0,17,2,15,Semi-Furnished,Builder Floor,27.5,6,5,8.5,10036000.0
+Ghaziabad,1485,2,2,1,21,2,29,Unfurnished,Independent House,10.8,2,3,1.2,5033000.0
+Greater Noida,1409,2,2,1,12,2,0,Semi-Furnished,Apartment,14.7,0,6,8.2,4634000.0
+Delhi,1026,2,2,2,19,2,22,Unfurnished,Builder Floor,26.1,7,6,9.5,4896000.0
+Faridabad,628,1,1,1,7,2,27,Unfurnished,Villa,33.9,7,3,1.3,2311000.0
+Faridabad,1670,3,2,1,6,1,5,Semi-Furnished,Apartment,16.5,2,0,1.4,4761000.0
+Ghaziabad,1900,3,2,2,8,0,10,Semi-Furnished,Independent House,29.2,6,3,4.1,7035000.0
+Gurgaon,1652,3,2,1,13,1,15,Semi-Furnished,Builder Floor,34.2,8,0,1.8,8118000.0
+Gurgaon,1384,2,2,0,5,1,4,Semi-Furnished,Builder Floor,30.7,7,4,5.3,7830000.0
+Faridabad,1059,2,1,1,2,1,15,Unfurnished,Builder Floor,8.7,2,6,7.6,2803000.0
+Ghaziabad,1506,3,3,1,9,1,6,Semi-Furnished,Apartment,1.3,1,1,6.1,5404000.0
+Greater Noida,1619,3,2,3,11,2,18,Unfurnished,Villa,17.7,9,2,2.8,7547000.0
+Gurgaon,1840,3,2,1,24,2,0,Furnished,Villa,19.1,6,6,6.9,16466000.0
+Greater Noida,1563,2,1,2,6,1,8,Furnished,Builder Floor,7.8,6,3,7.2,6632000.0
+Gurgaon,2371,4,3,0,7,1,17,Semi-Furnished,Independent House,10.7,8,3,9.4,13464000.0
+Gurgaon,1545,2,2,1,7,2,12,Furnished,Builder Floor,27.0,4,4,2.3,9370000.0
+Noida,1495,3,3,2,19,1,25,Furnished,Apartment,17.0,3,3,7.2,5612000.0
+Gurgaon,1488,3,2,1,6,1,14,Semi-Furnished,Builder Floor,11.8,7,0,9.2,7180000.0
+Delhi,1630,3,3,1,11,1,2,Furnished,Builder Floor,22.2,3,0,5.5,10610000.0
+Ghaziabad,1274,2,1,1,11,1,23,Furnished,Builder Floor,23.2,3,1,4.3,4001000.0
+Ghaziabad,1645,3,2,1,7,1,27,Unfurnished,Independent House,27.2,1,1,2.5,4191000.0
+Greater Noida,1910,4,3,2,2,2,9,Furnished,Apartment,6.3,0,6,8.8,7708000.0
+Gurgaon,1233,2,1,1,19,1,8,Unfurnished,Apartment,26.2,3,1,4.5,4966000.0
+Delhi,1277,2,2,2,4,0,12,Unfurnished,Apartment,21.4,6,0,9.3,5496000.0
+Greater Noida,1476,2,1,2,6,1,15,Unfurnished,Apartment,3.0,8,7,8.6,5221000.0
+Noida,2216,4,3,1,17,1,2,Furnished,Independent House,27.4,8,5,4.4,13344000.0
+Greater Noida,727,1,1,0,5,2,21,Unfurnished,Builder Floor,14.0,9,5,6.2,2356000.0
+Greater Noida,2436,5,4,1,7,1,22,Semi-Furnished,Builder Floor,12.2,0,1,1.2,7722000.0
+Gurgaon,1527,3,3,2,9,1,14,Semi-Furnished,Apartment,16.2,4,1,3.4,7181000.0
+Noida,2593,5,4,1,1,1,16,Semi-Furnished,Builder Floor,12.8,6,0,7.4,10959000.0
+Greater Noida,2674,5,4,2,1,1,13,Unfurnished,Apartment,12.5,6,4,7.1,8685000.0
+Delhi,1794,3,2,1,19,1,6,Semi-Furnished,Apartment,28.5,9,6,4.2,9738000.0
+Delhi,1110,2,1,2,6,1,19,Unfurnished,Independent House,5.2,5,3,8.3,6654000.0
+Ghaziabad,1089,2,1,0,18,1,15,Semi-Furnished,Independent House,34.0,9,6,3.1,3917000.0
+Noida,1279,2,1,2,10,1,20,Unfurnished,Apartment,19.9,3,2,5.2,4212000.0
+Noida,1732,3,3,1,11,1,7,Unfurnished,Apartment,7.2,2,5,5.3,6869000.0
+Ghaziabad,1223,2,1,1,1,2,3,Furnished,Apartment,5.5,8,7,4.1,5650000.0
+Greater Noida,1100,2,2,1,1,2,19,Unfurnished,Apartment,21.1,9,5,9.6,3029000.0
+Noida,1531,3,3,1,13,1,23,Furnished,Builder Floor,22.5,3,0,7.3,5934000.0
+Delhi,1812,4,3,3,5,1,14,Furnished,Apartment,2.8,7,6,5.9,13190000.0
+Delhi,1456,2,2,1,20,1,4,Furnished,Builder Floor,9.3,0,7,5.6,10272000.0
+Gurgaon,1040,1,1,1,1,2,12,Semi-Furnished,Apartment,28.0,6,0,2.4,4885000.0
+Noida,697,1,1,2,20,1,5,Semi-Furnished,Apartment,2.7,5,2,4.3,3532000.0
+Greater Noida,1919,4,3,1,3,1,27,Furnished,Apartment,30.1,0,7,7.1,5655000.0
+Ghaziabad,1692,3,3,1,18,1,26,Furnished,Apartment,23.4,3,6,9.3,4515000.0
+Ghaziabad,1000,2,2,2,9,2,29,Unfurnished,Apartment,15.8,4,7,8.3,2363000.0
+Greater Noida,1571,2,1,1,14,0,4,Unfurnished,Apartment,12.8,7,2,3.7,5570000.0
+Faridabad,1249,2,2,3,17,1,16,Unfurnished,Independent House,1.7,3,1,4.9,4270000.0
+Gurgaon,1148,2,1,1,23,1,6,Unfurnished,Apartment,29.1,2,6,1.7,4769000.0
+Ghaziabad,2594,5,4,1,14,0,5,Unfurnished,Villa,5.9,1,2,1.9,13629000.0
+Noida,1843,4,3,2,4,0,1,Furnished,Apartment,11.5,3,3,5.2,8702000.0
+Gurgaon,1443,3,2,2,5,2,10,Semi-Furnished,Independent House,20.3,9,3,5.8,8447000.0
+Noida,1877,4,3,1,21,2,6,Unfurnished,Builder Floor,9.4,3,5,3.4,8656000.0
+Delhi,1225,2,2,2,17,1,21,Furnished,Independent House,17.9,9,3,6.8,7155000.0
+Gurgaon,1561,3,3,1,22,2,20,Semi-Furnished,Independent House,28.5,4,6,7.3,7451000.0
+Ghaziabad,2052,4,4,1,2,1,7,Furnished,Builder Floor,17.0,6,3,3.7,7980000.0
+Gurgaon,1131,2,1,2,23,1,4,Semi-Furnished,Builder Floor,33.3,8,3,7.8,5996000.0
+Gurgaon,2247,4,4,1,22,1,26,Semi-Furnished,Builder Floor,29.8,1,7,2.9,9731000.0
+Gurgaon,1473,2,2,1,5,2,17,Semi-Furnished,Builder Floor,12.3,4,1,5.9,7802000.0
+Faridabad,1108,2,2,2,4,1,21,Semi-Furnished,Apartment,14.6,9,5,8.2,2634000.0
+Gurgaon,1034,2,2,3,4,1,15,Semi-Furnished,Apartment,15.4,8,0,5.8,4312000.0
+Noida,1866,3,3,1,6,2,13,Furnished,Builder Floor,22.3,2,5,9.2,8112000.0
+Delhi,1674,3,2,1,20,1,11,Furnished,Builder Floor,10.8,0,5,1.5,11746000.0
+Greater Noida,2386,5,4,2,21,0,16,Unfurnished,Independent House,34.0,1,5,6.3,7679000.0
+Gurgaon,1642,3,3,3,13,1,4,Semi-Furnished,Builder Floor,21.7,5,2,6.1,9248000.0
+Ghaziabad,2063,4,3,2,22,1,13,Furnished,Villa,14.6,4,0,6.9,10247000.0
+Gurgaon,2321,4,3,1,5,2,5,Unfurnished,Apartment,22.9,0,2,8.5,8266000.0
+Ghaziabad,1540,2,2,1,23,1,14,Furnished,Apartment,14.4,0,1,7.5,4054000.0
+Noida,1486,3,3,1,23,1,6,Semi-Furnished,Apartment,28.8,3,1,8.1,5616000.0
+Ghaziabad,1534,2,1,2,7,1,13,Furnished,Apartment,20.3,3,4,3.6,4661000.0
+Greater Noida,1609,3,3,2,20,1,17,Unfurnished,Independent House,2.4,5,4,4.5,6913000.0
+Delhi,2245,5,4,2,1,1,0,Semi-Furnished,Apartment,7.0,5,7,6.6,15591000.0
+Ghaziabad,1466,2,1,3,14,1,5,Furnished,Independent House,30.4,9,1,6.0,5863000.0
+Ghaziabad,1939,3,3,0,24,2,2,Unfurnished,Apartment,20.1,5,1,9.6,5083000.0
+Delhi,1425,3,2,1,4,0,4,Semi-Furnished,Builder Floor,33.3,0,2,2.7,7446000.0
+Greater Noida,1665,3,2,1,17,1,11,Furnished,Builder Floor,3.5,9,7,4.2,8628000.0
+Gurgaon,1174,2,1,1,21,1,10,Furnished,Apartment,11.0,8,1,6.2,6540000.0
+Ghaziabad,1515,2,2,0,14,1,12,Furnished,Builder Floor,7.6,6,6,8.8,5731000.0
+Delhi,910,1,1,0,16,1,15,Furnished,Apartment,19.8,6,0,9.4,4387000.0
+Noida,1321,2,2,2,14,1,17,Semi-Furnished,Apartment,14.0,6,2,4.0,5120000.0
+Delhi,1178,1,1,2,16,2,16,Unfurnished,Apartment,6.3,1,1,1.6,6456000.0
+Noida,1534,3,2,1,24,1,16,Semi-Furnished,Apartment,22.9,1,2,4.8,5496000.0
+Greater Noida,1054,2,2,1,20,1,28,Furnished,Apartment,19.2,5,2,4.5,3143000.0
+Gurgaon,2342,4,4,1,8,0,10,Furnished,Builder Floor,10.3,6,3,9.9,14660000.0
+Delhi,1985,3,3,2,24,2,19,Furnished,Builder Floor,17.3,2,7,4.9,11554000.0
+Faridabad,1930,3,3,2,3,1,9,Semi-Furnished,Builder Floor,26.4,3,4,3.8,6106000.0
+Ghaziabad,1555,3,2,2,19,1,28,Unfurnished,Apartment,8.0,2,7,4.3,4167000.0
+Greater Noida,1546,3,2,1,1,1,15,Furnished,Builder Floor,11.0,6,2,4.6,5918000.0
+Delhi,2684,5,4,0,2,1,1,Unfurnished,Apartment,12.8,6,7,8.4,15040000.0
+Ghaziabad,1198,1,1,0,15,1,16,Unfurnished,Apartment,26.4,3,5,1.7,2909000.0
+Delhi,1019,2,2,2,22,2,21,Semi-Furnished,Independent House,29.8,6,6,3.8,5739000.0
+Noida,2068,4,3,2,10,1,29,Unfurnished,Apartment,13.8,4,6,9.7,6478000.0
+Delhi,932,1,1,2,18,1,19,Semi-Furnished,Builder Floor,11.1,0,2,2.4,5398000.0
+Faridabad,1154,1,1,1,22,1,9,Semi-Furnished,Builder Floor,31.2,9,5,7.7,3292000.0
+Delhi,1400,2,1,2,14,1,12,Semi-Furnished,Apartment,35.0,3,6,4.2,7164000.0
+Delhi,905,1,1,3,17,1,11,Semi-Furnished,Apartment,23.8,6,3,6.2,4409000.0
+Faridabad,1427,3,3,1,13,1,14,Furnished,Apartment,34.7,1,1,1.9,4173000.0
+Greater Noida,1466,2,2,1,1,1,6,Semi-Furnished,Independent House,23.4,1,2,3.8,5752000.0
+Delhi,2059,4,4,3,5,1,26,Furnished,Apartment,25.9,0,3,5.5,8827000.0
+Faridabad,2333,4,3,1,13,1,21,Semi-Furnished,Apartment,14.2,1,7,3.1,5617000.0
+Ghaziabad,1500,3,2,3,14,1,20,Furnished,Apartment,15.7,9,0,5.9,4207000.0
+Noida,1950,3,2,3,24,2,25,Unfurnished,Builder Floor,5.9,7,7,3.0,7929000.0
+Noida,2152,4,3,2,3,1,27,Unfurnished,Apartment,29.0,7,3,6.9,6094000.0
+Delhi,1299,2,2,2,15,1,12,Semi-Furnished,Apartment,32.7,7,4,9.1,6505000.0
+Greater Noida,2095,4,3,2,19,2,11,Furnished,Builder Floor,22.2,0,4,1.8,7730000.0
+Greater Noida,2152,4,3,2,17,0,11,Unfurnished,Villa,12.7,0,1,2.9,9999000.0
+Ghaziabad,1529,3,3,1,3,2,27,Unfurnished,Apartment,6.2,9,7,8.6,3916000.0
+Delhi,1555,3,3,0,16,2,1,Unfurnished,Apartment,10.0,3,5,6.7,8823000.0
+Noida,1073,2,2,1,14,2,4,Furnished,Apartment,9.7,5,1,1.7,5541000.0
+Greater Noida,1741,3,2,2,12,2,24,Semi-Furnished,Builder Floor,21.9,7,6,5.4,5080000.0
+Delhi,2264,4,4,1,12,1,24,Furnished,Apartment,33.1,1,5,2.9,11075000.0
+Greater Noida,689,1,1,0,11,1,1,Furnished,Builder Floor,2.6,2,5,2.8,3448000.0
+Faridabad,2378,4,3,1,17,1,22,Unfurnished,Independent House,1.0,5,5,9.5,8919000.0
+Greater Noida,1454,2,1,2,8,1,25,Unfurnished,Independent House,21.4,9,5,7.9,4701000.0
+Noida,1331,2,2,3,17,0,29,Semi-Furnished,Apartment,10.7,3,4,7.3,4794000.0
+Gurgaon,1347,2,1,3,21,1,19,Unfurnished,Independent House,30.9,1,7,3.2,6079000.0
+Ghaziabad,832,1,1,1,23,1,12,Semi-Furnished,Builder Floor,12.1,6,6,2.1,2891000.0
+Ghaziabad,1997,3,3,2,20,2,28,Semi-Furnished,Builder Floor,10.9,3,4,8.8,5737000.0
+Noida,1101,2,1,2,11,2,2,Semi-Furnished,Apartment,10.2,7,2,1.1,5432000.0
+Greater Noida,2680,5,5,1,2,2,10,Unfurnished,Villa,5.9,7,6,4.5,14591000.0
+Delhi,1613,3,2,2,10,1,15,Furnished,Apartment,20.8,6,4,3.5,8415000.0
+Greater Noida,1107,2,1,1,10,2,0,Unfurnished,Apartment,6.7,9,1,6.1,4019000.0
+Noida,1564,3,2,3,11,2,18,Unfurnished,Apartment,15.4,8,4,3.3,5519000.0
+Ghaziabad,2134,4,4,1,6,1,10,Furnished,Builder Floor,16.7,3,6,3.8,7125000.0
+Greater Noida,1485,3,2,1,4,1,8,Semi-Furnished,Apartment,1.7,6,6,8.7,6103000.0
+Ghaziabad,1023,1,1,2,24,2,13,Unfurnished,Apartment,1.6,9,1,6.4,3234000.0
+Delhi,2163,4,4,1,12,2,8,Semi-Furnished,Apartment,18.7,9,0,2.3,11146000.0
+Ghaziabad,1859,4,4,1,11,1,6,Unfurnished,Apartment,24.7,0,7,7.5,4497000.0
+Ghaziabad,1481,2,2,2,23,0,15,Unfurnished,Builder Floor,33.0,3,6,2.9,4284000.0
+Gurgaon,849,1,1,0,23,1,2,Semi-Furnished,Builder Floor,7.1,1,4,4.9,4851000.0
+Gurgaon,1959,3,2,2,13,0,28,Semi-Furnished,Apartment,4.5,8,1,6.8,8892000.0
+Faridabad,1116,2,1,1,5,2,18,Unfurnished,Apartment,2.8,4,5,3.4,3380000.0
+Gurgaon,2344,4,3,2,6,2,3,Semi-Furnished,Builder Floor,15.8,2,7,4.5,12255000.0
+Ghaziabad,1043,2,2,2,1,0,6,Furnished,Apartment,22.2,3,6,7.6,3228000.0
+Noida,2308,4,4,1,6,1,22,Furnished,Apartment,29.6,5,7,9.4,8912000.0
+Ghaziabad,1564,3,2,2,18,0,27,Semi-Furnished,Villa,24.2,9,7,5.8,6514000.0
+Noida,1367,2,2,2,22,1,11,Unfurnished,Builder Floor,8.1,0,3,1.1,5723000.0
+Noida,1291,2,2,2,9,1,29,Unfurnished,Apartment,16.7,6,7,4.0,4349000.0
+Gurgaon,1685,3,2,2,24,1,17,Semi-Furnished,Builder Floor,32.0,7,5,4.6,8234000.0
+Greater Noida,2003,4,3,2,15,1,27,Furnished,Apartment,12.1,6,2,4.1,6536000.0
+Delhi,2323,4,4,1,8,0,4,Furnished,Builder Floor,18.0,6,7,4.9,16850000.0
+Gurgaon,1120,2,2,1,19,1,22,Unfurnished,Apartment,33.6,8,6,6.7,4528000.0
+Gurgaon,1187,2,2,3,24,0,22,Furnished,Apartment,26.0,3,1,2.1,5778000.0
+Greater Noida,612,1,1,1,16,1,21,Furnished,Apartment,26.4,6,5,3.5,1939000.0
+Delhi,1599,3,2,1,6,0,25,Furnished,Villa,9.6,8,4,5.6,13369000.0
+Ghaziabad,1185,1,1,1,6,1,9,Semi-Furnished,Independent House,15.1,4,4,3.8,4519000.0
+Faridabad,1855,3,2,1,22,2,11,Unfurnished,Apartment,3.8,1,6,9.9,5282000.0
+Faridabad,1847,3,2,1,3,2,7,Furnished,Apartment,21.6,4,0,4.9,5138000.0
+Ghaziabad,2270,5,5,3,10,2,18,Semi-Furnished,Independent House,4.5,3,3,8.8,9228000.0
+Gurgaon,1589,2,2,1,1,2,14,Semi-Furnished,Apartment,29.4,7,6,9.1,6921000.0
+Delhi,1129,2,2,1,14,0,0,Unfurnished,Apartment,28.7,4,1,8.5,5259000.0
+Gurgaon,1442,3,2,3,4,0,2,Furnished,Villa,19.1,8,5,1.4,13376000.0
+Noida,1919,3,2,3,12,1,26,Semi-Furnished,Apartment,5.8,8,3,9.5,7560000.0
+Gurgaon,1012,2,1,1,6,2,17,Semi-Furnished,Builder Floor,1.9,2,0,2.2,5493000.0
+Gurgaon,2334,4,4,1,11,2,17,Unfurnished,Villa,28.1,9,6,1.3,16855000.0
+Ghaziabad,2101,4,3,2,12,0,29,Semi-Furnished,Apartment,21.4,5,2,4.7,5126000.0
+Ghaziabad,1526,2,1,2,10,1,29,Furnished,Apartment,25.2,5,3,2.8,4086000.0
+Ghaziabad,1572,2,2,2,18,1,1,Semi-Furnished,Apartment,11.3,3,0,2.7,5456000.0
+Faridabad,1514,3,2,2,7,1,4,Unfurnished,Independent House,18.3,9,6,3.6,5623000.0
+Noida,2259,4,4,2,7,1,28,Furnished,Independent House,26.4,2,7,3.2,10869000.0
+Ghaziabad,1104,1,1,1,11,0,0,Unfurnished,Independent House,16.7,0,6,7.2,3811000.0
+Delhi,1707,3,2,2,4,1,9,Furnished,Apartment,21.4,6,1,2.7,10056000.0
+Faridabad,1724,3,3,1,20,1,19,Semi-Furnished,Independent House,27.9,4,6,5.9,5715000.0
+Greater Noida,1578,2,2,2,1,1,29,Semi-Furnished,Villa,8.3,9,2,9.9,6840000.0
+Delhi,1574,3,3,2,13,0,9,Unfurnished,Builder Floor,3.2,6,6,4.9,11202000.0
+Delhi,2713,5,5,0,18,2,4,Semi-Furnished,Villa,19.1,0,4,6.8,21104000.0
+Ghaziabad,771,1,1,1,9,1,17,Unfurnished,Independent House,3.1,7,0,9.7,2578000.0
+Greater Noida,1501,2,2,1,24,2,20,Unfurnished,Builder Floor,27.1,2,7,2.2,4497000.0
+Greater Noida,1733,3,2,1,24,2,25,Semi-Furnished,Builder Floor,25.5,6,4,4.8,5443000.0
+Faridabad,2083,4,3,2,9,0,14,Unfurnished,Apartment,31.0,2,6,8.7,4800000.0
+Greater Noida,2674,5,5,1,23,0,19,Unfurnished,Apartment,22.7,2,2,9.4,6028000.0
+Noida,1453,3,2,2,9,1,7,Furnished,Builder Floor,3.3,9,0,6.4,8798000.0
+Ghaziabad,2257,4,4,0,10,0,16,Semi-Furnished,Apartment,9.6,8,0,2.3,6602000.0
+Greater Noida,1978,3,2,2,2,2,11,Unfurnished,Independent House,28.5,1,6,9.1,6431000.0
+Faridabad,1819,3,3,2,6,1,20,Furnished,Villa,6.7,3,2,2.6,9754000.0
+Noida,1408,2,1,2,15,2,29,Unfurnished,Independent House,24.7,5,1,4.2,5426000.0
+Gurgaon,1303,2,1,1,3,1,29,Unfurnished,Apartment,27.5,2,7,4.4,4644000.0
+Gurgaon,1558,2,1,3,11,1,26,Furnished,Apartment,12.2,9,0,5.0,6799000.0
+Noida,1621,3,2,1,6,1,11,Semi-Furnished,Apartment,12.0,9,7,8.1,6798000.0
+Faridabad,1132,1,1,0,3,0,25,Semi-Furnished,Builder Floor,20.0,6,2,8.2,3021000.0
+Noida,1957,4,4,1,24,1,0,Semi-Furnished,Independent House,30.3,6,3,7.5,10604000.0
+Ghaziabad,1347,2,2,0,11,2,25,Furnished,Villa,8.6,4,4,1.2,7338000.0
+Ghaziabad,1158,2,2,3,15,1,25,Furnished,Apartment,33.0,2,0,6.1,2710000.0
+Gurgaon,1634,3,2,1,13,1,3,Semi-Furnished,Villa,21.4,1,3,7.7,10766000.0
+Greater Noida,1804,3,3,2,20,0,7,Unfurnished,Independent House,34.7,3,0,5.0,6044000.0
+Faridabad,856,1,1,2,10,1,0,Unfurnished,Apartment,4.0,3,1,9.5,2548000.0
+Gurgaon,1588,2,1,1,6,2,26,Semi-Furnished,Independent House,5.3,7,6,8.4,9194000.0
+Greater Noida,2796,5,4,2,15,2,14,Furnished,Apartment,29.1,7,2,6.7,8932000.0
+Greater Noida,1557,2,2,0,18,1,17,Semi-Furnished,Apartment,30.4,4,0,1.6,4703000.0
+Ghaziabad,1046,2,1,1,18,2,0,Furnished,Builder Floor,16.1,5,2,6.9,3804000.0
+Delhi,2012,4,4,0,7,1,10,Unfurnished,Apartment,25.3,7,5,9.2,9477000.0
+Delhi,1078,1,1,3,15,1,22,Unfurnished,Builder Floor,30.5,0,0,4.4,4761000.0
+Noida,1886,3,2,3,18,1,1,Unfurnished,Builder Floor,2.5,4,1,8.5,9567000.0
+Ghaziabad,1570,2,1,1,18,2,0,Unfurnished,Builder Floor,20.5,3,1,3.8,4981000.0
+Greater Noida,1565,2,2,1,20,0,11,Furnished,Apartment,30.0,3,6,6.1,5566000.0
+Faridabad,1341,2,2,2,9,1,15,Unfurnished,Builder Floor,14.5,1,6,6.8,3336000.0
+Delhi,1123,1,1,1,24,1,21,Semi-Furnished,Builder Floor,11.3,9,3,7.1,5723000.0
+Greater Noida,1502,2,2,2,2,1,21,Unfurnished,Builder Floor,28.1,0,1,8.9,3473000.0
+Delhi,605,1,1,2,8,1,9,Furnished,Apartment,12.4,5,2,3.1,3695000.0
+Delhi,1943,4,4,1,20,1,17,Unfurnished,Apartment,1.1,6,5,3.4,12177000.0
+Delhi,1260,2,1,2,2,0,14,Unfurnished,Builder Floor,33.6,4,7,7.3,6572000.0
+Faridabad,1984,3,3,1,11,1,16,Furnished,Apartment,21.1,7,1,2.6,6147000.0
+Ghaziabad,2031,4,4,3,7,1,29,Semi-Furnished,Builder Floor,28.9,8,0,5.2,4967000.0
+Faridabad,1669,3,3,3,6,1,9,Unfurnished,Independent House,29.1,1,7,1.2,5673000.0
+Gurgaon,1046,1,1,1,10,1,2,Semi-Furnished,Builder Floor,3.3,3,7,2.3,7156000.0
+Greater Noida,2421,5,4,0,5,0,25,Furnished,Builder Floor,6.8,8,1,7.1,9894000.0
+Ghaziabad,1051,2,1,3,11,2,29,Furnished,Villa,11.6,4,5,7.7,4585000.0
+Ghaziabad,1115,2,2,3,1,1,20,Furnished,Independent House,11.9,2,2,2.0,4040000.0
+Ghaziabad,2337,4,4,0,2,0,15,Unfurnished,Villa,23.4,5,0,3.0,8949000.0
+Ghaziabad,1964,3,3,2,24,1,5,Semi-Furnished,Independent House,22.2,2,3,1.9,7718000.0
+Faridabad,1940,3,2,1,1,2,2,Furnished,Apartment,17.8,4,3,4.9,5928000.0
+Ghaziabad,1018,2,1,1,19,2,8,Semi-Furnished,Apartment,8.2,2,3,2.1,3251000.0
+Noida,1791,3,2,2,2,1,10,Semi-Furnished,Builder Floor,14.0,5,6,4.9,8680000.0
+Greater Noida,1418,2,1,1,21,1,20,Furnished,Apartment,19.5,9,0,7.6,4587000.0
+Ghaziabad,2108,4,3,3,20,0,12,Semi-Furnished,Apartment,16.9,4,7,7.2,5359000.0
+Greater Noida,1185,2,1,1,23,0,17,Semi-Furnished,Apartment,5.3,8,3,3.5,4647000.0
+Noida,2060,4,4,2,21,1,25,Semi-Furnished,Builder Floor,23.1,2,6,7.1,6891000.0
+Noida,1927,3,2,1,24,1,21,Unfurnished,Independent House,3.5,5,1,9.3,8859000.0
+Greater Noida,2072,4,3,1,4,1,27,Furnished,Independent House,13.9,7,7,4.1,8684000.0
+Delhi,1559,3,3,2,12,1,23,Semi-Furnished,Builder Floor,25.1,6,0,4.0,7508000.0
+Gurgaon,1623,3,2,1,22,0,26,Semi-Furnished,Independent House,1.7,5,0,6.1,10124000.0
+Delhi,1255,2,2,1,20,1,21,Semi-Furnished,Apartment,20.4,1,0,3.2,5379000.0
+Delhi,1179,2,1,1,18,0,3,Semi-Furnished,Independent House,12.4,6,4,6.9,8607000.0
+Faridabad,1019,2,2,0,1,0,21,Semi-Furnished,Apartment,1.3,7,6,8.5,3299000.0
+Delhi,2267,4,4,2,1,1,23,Unfurnished,Villa,7.5,0,7,5.1,16774000.0
+Ghaziabad,2009,4,4,1,24,1,7,Semi-Furnished,Builder Floor,33.0,8,2,7.1,6245000.0
+Faridabad,1912,3,3,2,14,1,12,Semi-Furnished,Apartment,18.7,3,4,6.9,4625000.0
+Faridabad,1057,2,2,1,4,1,9,Unfurnished,Apartment,34.9,7,4,1.3,2936000.0
+Noida,1092,2,1,1,5,0,1,Semi-Furnished,Apartment,18.8,9,4,2.7,4959000.0
+Delhi,1620,3,2,1,11,0,7,Furnished,Apartment,19.5,6,2,9.0,9099000.0
+Noida,1631,3,3,1,24,1,5,Furnished,Apartment,14.3,9,4,9.5,7422000.0
+Greater Noida,2163,4,4,1,23,0,15,Furnished,Builder Floor,11.5,6,3,8.0,8268000.0
+Gurgaon,2761,5,5,2,13,1,17,Unfurnished,Builder Floor,9.6,1,0,9.3,12080000.0
+Faridabad,1373,2,1,2,16,0,16,Unfurnished,Builder Floor,12.7,0,7,3.8,3570000.0
+Greater Noida,1855,3,3,1,24,1,5,Unfurnished,Villa,16.6,3,7,3.2,9560000.0
+Greater Noida,1487,3,3,0,13,0,12,Semi-Furnished,Builder Floor,7.5,1,0,4.5,5605000.0
+Ghaziabad,1019,2,2,1,24,0,22,Semi-Furnished,Builder Floor,8.6,7,6,1.5,3454000.0
+Gurgaon,1013,2,2,1,22,1,13,Furnished,Apartment,10.2,9,1,8.3,5356000.0
+Greater Noida,732,1,1,1,2,2,29,Semi-Furnished,Independent House,16.3,6,5,9.9,2591000.0
+Greater Noida,1833,4,4,1,16,0,25,Semi-Furnished,Apartment,23.2,7,3,8.4,4782000.0
+Gurgaon,1607,3,3,1,6,1,20,Unfurnished,Villa,30.1,5,2,6.0,9609000.0
+Gurgaon,1598,3,2,1,14,1,29,Furnished,Independent House,10.8,0,5,3.7,9712000.0
+Greater Noida,2391,4,4,0,1,1,9,Semi-Furnished,Builder Floor,7.2,8,0,2.8,10405000.0
+Gurgaon,2382,4,4,0,17,2,23,Semi-Furnished,Apartment,13.9,5,4,4.3,10101000.0
+Greater Noida,1154,2,1,1,11,0,10,Semi-Furnished,Independent House,31.4,9,7,7.0,4640000.0
+Greater Noida,1989,3,2,1,19,2,12,Semi-Furnished,Independent House,1.3,0,6,5.0,10112000.0
+Ghaziabad,1477,3,2,1,3,1,11,Unfurnished,Apartment,24.0,0,6,9.4,3677000.0
+Delhi,1971,4,4,1,11,1,8,Furnished,Apartment,17.2,7,1,8.7,10891000.0
+Greater Noida,1688,3,3,1,5,2,3,Unfurnished,Independent House,6.5,5,1,1.9,8739000.0
+Noida,1944,3,2,1,17,1,6,Semi-Furnished,Apartment,11.9,7,0,2.2,8536000.0
+Faridabad,1419,2,1,1,22,1,23,Unfurnished,Villa,8.6,7,3,7.1,5538000.0
+Delhi,1806,4,3,1,7,1,28,Unfurnished,Apartment,30.8,7,6,3.1,7850000.0
+Delhi,759,1,1,0,10,1,21,Semi-Furnished,Apartment,17.4,9,5,8.1,3234000.0
+Delhi,1239,2,2,1,11,0,1,Furnished,Independent House,20.1,6,1,6.3,8990000.0
+Ghaziabad,1422,2,1,2,3,1,6,Unfurnished,Apartment,21.2,6,7,3.1,4076000.0
+Greater Noida,1135,1,1,1,20,0,28,Semi-Furnished,Builder Floor,22.7,9,7,5.3,3730000.0
+Ghaziabad,1069,2,1,1,10,2,8,Unfurnished,Apartment,17.8,3,0,4.7,2814000.0
+Greater Noida,2015,4,4,2,10,2,4,Furnished,Apartment,1.6,8,3,8.9,9534000.0
+Ghaziabad,2303,5,5,1,14,1,14,Semi-Furnished,Builder Floor,12.4,1,0,1.3,6974000.0
+Ghaziabad,1053,2,2,1,12,1,17,Unfurnished,Builder Floor,7.3,8,0,9.1,2986000.0
+Faridabad,1329,2,2,2,15,0,3,Unfurnished,Builder Floor,24.1,9,3,6.9,3743000.0
+Noida,1202,2,1,2,10,0,18,Semi-Furnished,Independent House,2.9,2,3,7.6,6480000.0
+Ghaziabad,1287,2,2,1,10,2,19,Unfurnished,Builder Floor,20.2,1,3,1.0,3284000.0
+Faridabad,644,1,1,1,19,0,25,Semi-Furnished,Apartment,8.2,3,7,6.7,1694000.0
+Gurgaon,1997,4,3,1,1,1,6,Furnished,Apartment,33.3,4,7,6.3,10312000.0
+Noida,1215,2,2,0,24,2,25,Semi-Furnished,Villa,12.4,1,0,5.8,6290000.0
+Ghaziabad,1880,3,2,2,10,2,7,Semi-Furnished,Independent House,12.1,0,1,8.1,6866000.0
+Delhi,908,1,1,0,2,1,16,Unfurnished,Builder Floor,32.4,9,2,6.0,4536000.0
+Gurgaon,2234,4,4,1,17,1,12,Semi-Furnished,Apartment,15.2,4,2,8.7,9483000.0
+Gurgaon,1731,3,3,3,24,1,23,Furnished,Apartment,33.7,8,0,3.1,7725000.0
+Faridabad,2226,5,4,3,7,2,20,Furnished,Independent House,1.8,4,0,8.3,8508000.0
+Gurgaon,1965,4,3,1,7,1,27,Semi-Furnished,Independent House,11.4,9,1,2.6,10451000.0
+Noida,1317,2,1,2,20,1,22,Semi-Furnished,Builder Floor,23.7,8,3,8.3,4546000.0
+Ghaziabad,1273,2,2,1,9,0,10,Unfurnished,Independent House,31.3,9,0,9.5,3625000.0
+Ghaziabad,1782,3,2,2,22,0,26,Semi-Furnished,Independent House,9.7,5,6,4.0,6235000.0
+Delhi,1364,2,1,1,2,1,0,Unfurnished,Apartment,32.6,2,7,5.8,6396000.0
+Faridabad,1502,3,2,0,14,2,1,Unfurnished,Apartment,21.2,3,4,6.9,3672000.0
+Delhi,1102,1,1,1,17,2,16,Semi-Furnished,Apartment,28.2,3,3,1.7,5527000.0
+Gurgaon,972,1,1,1,1,2,4,Unfurnished,Apartment,14.5,0,6,5.4,4565000.0
+Delhi,1644,3,3,1,9,1,29,Unfurnished,Independent House,8.2,2,7,4.2,10246000.0
+Noida,1568,3,3,2,20,1,29,Semi-Furnished,Apartment,32.0,2,0,8.9,4201000.0
+Ghaziabad,2217,4,3,2,21,2,5,Furnished,Builder Floor,32.7,0,4,8.9,7093000.0
+Gurgaon,1355,2,2,1,19,1,25,Semi-Furnished,Apartment,17.9,8,6,7.3,5729000.0
+Delhi,1877,3,2,1,4,1,24,Semi-Furnished,Apartment,1.2,0,5,6.9,9423000.0
+Faridabad,1124,2,2,0,8,1,23,Unfurnished,Apartment,4.7,8,1,7.6,3105000.0
+Noida,1136,1,1,2,13,2,6,Semi-Furnished,Apartment,20.5,0,7,4.3,4290000.0
+Noida,1801,3,2,3,4,1,27,Unfurnished,Builder Floor,1.8,1,4,4.6,8083000.0
+Delhi,1516,2,1,3,9,2,20,Semi-Furnished,Apartment,14.5,1,0,6.0,6912000.0
+Ghaziabad,1530,2,1,2,9,1,29,Furnished,Builder Floor,11.3,5,2,9.4,4993000.0
+Delhi,1253,2,2,1,22,1,14,Unfurnished,Apartment,25.3,6,6,7.5,5810000.0
+Gurgaon,1120,2,2,0,18,1,18,Semi-Furnished,Apartment,2.9,0,0,6.0,5086000.0
+Delhi,631,1,1,2,12,1,15,Semi-Furnished,Apartment,17.6,2,2,7.9,2620000.0
+Noida,636,1,1,3,10,1,24,Semi-Furnished,Builder Floor,20.7,1,1,4.3,2129000.0
+Delhi,1341,2,2,1,11,2,12,Furnished,Builder Floor,22.0,7,1,7.6,7403000.0
+Ghaziabad,612,1,1,0,7,1,4,Semi-Furnished,Apartment,14.8,8,3,4.7,1820000.0
+Faridabad,1582,3,3,2,9,1,2,Semi-Furnished,Apartment,11.3,1,6,3.5,4762000.0
+Greater Noida,1264,2,1,0,6,1,2,Semi-Furnished,Independent House,24.2,1,3,6.5,5236000.0
+Delhi,1087,2,2,1,19,1,18,Unfurnished,Apartment,29.8,9,2,7.2,4266000.0
+Ghaziabad,1461,2,1,2,16,1,13,Semi-Furnished,Apartment,24.6,8,2,5.1,3926000.0
+Ghaziabad,1445,3,3,1,15,1,15,Furnished,Independent House,32.7,3,1,6.1,5073000.0
+Faridabad,2191,4,4,0,7,2,21,Semi-Furnished,Builder Floor,25.4,4,4,7.2,5786000.0
+Noida,1918,4,3,2,16,1,16,Unfurnished,Apartment,27.0,8,2,7.9,5860000.0
+Ghaziabad,1930,3,2,2,5,1,26,Furnished,Villa,6.7,5,2,9.1,10083000.0
+Ghaziabad,1846,3,2,3,16,1,3,Furnished,Independent House,15.3,9,6,4.2,8405000.0
+Ghaziabad,1445,3,3,1,1,1,12,Furnished,Apartment,17.5,8,4,9.6,4382000.0
+Ghaziabad,1907,3,3,0,19,2,7,Furnished,Builder Floor,9.7,8,3,6.7,7120000.0
+Gurgaon,1557,2,2,2,5,1,18,Unfurnished,Builder Floor,19.0,6,3,8.1,6603000.0
+Gurgaon,1525,2,1,1,7,2,4,Unfurnished,Apartment,10.9,9,2,7.3,7804000.0
+Noida,1596,2,2,1,19,1,1,Semi-Furnished,Apartment,24.4,8,6,2.9,6617000.0
+Delhi,1802,4,3,2,22,0,14,Semi-Furnished,Apartment,17.0,4,3,1.6,8964000.0
+Ghaziabad,1427,3,2,1,5,2,1,Semi-Furnished,Builder Floor,16.6,4,3,7.5,4311000.0
+Faridabad,1780,3,2,1,17,1,10,Unfurnished,Apartment,34.4,7,5,5.6,4888000.0
+Delhi,1156,2,2,0,22,0,12,Unfurnished,Independent House,14.3,9,6,7.3,6502000.0
+Faridabad,1910,3,3,1,8,1,22,Semi-Furnished,Builder Floor,13.3,3,3,5.3,5615000.0
+Delhi,1332,2,1,1,1,2,9,Unfurnished,Apartment,11.8,8,1,3.8,6730000.0
+Noida,1113,2,2,1,2,1,2,Unfurnished,Builder Floor,31.4,6,0,3.6,4629000.0
+Ghaziabad,2188,4,3,2,15,1,4,Semi-Furnished,Apartment,17.9,6,2,7.6,6542000.0
+Ghaziabad,1886,3,2,3,20,1,2,Furnished,Builder Floor,21.4,2,7,3.5,6584000.0
+Greater Noida,1249,2,2,1,18,1,5,Semi-Furnished,Builder Floor,7.1,3,2,7.4,5019000.0
+Faridabad,2370,4,3,0,11,2,12,Unfurnished,Apartment,19.4,6,1,4.5,5609000.0
+Delhi,1314,2,1,0,10,1,9,Unfurnished,Apartment,10.3,4,7,7.9,6353000.0
+Delhi,2438,5,5,1,24,1,18,Unfurnished,Apartment,25.8,2,0,2.3,10670000.0
+Gurgaon,1233,2,1,2,24,2,7,Unfurnished,Apartment,29.3,0,0,2.8,4537000.0
+Greater Noida,1302,2,1,2,4,1,17,Semi-Furnished,Apartment,25.3,6,1,7.2,3809000.0
+Gurgaon,1333,2,1,2,5,1,2,Unfurnished,Apartment,25.8,5,4,6.0,5990000.0
+Gurgaon,1112,2,1,1,4,1,23,Unfurnished,Villa,18.4,9,4,2.8,6554000.0
+Gurgaon,1361,2,1,1,13,1,23,Semi-Furnished,Apartment,25.2,6,0,9.1,5249000.0
+Faridabad,1496,3,2,1,13,1,16,Semi-Furnished,Apartment,15.4,1,4,3.5,3861000.0
+Faridabad,1815,4,3,0,18,1,7,Unfurnished,Builder Floor,23.2,3,4,4.8,4939000.0
+Noida,2355,4,4,2,24,1,9,Furnished,Apartment,9.8,1,4,2.8,11243000.0
+Noida,1375,2,2,3,2,1,1,Unfurnished,Villa,3.4,7,0,4.5,9615000.0
+Gurgaon,1789,3,2,1,16,1,11,Furnished,Builder Floor,15.1,6,7,5.4,11149000.0
+Greater Noida,1216,2,1,2,1,0,22,Semi-Furnished,Independent House,16.7,0,4,3.7,3988000.0
+Delhi,998,1,1,1,19,1,5,Unfurnished,Apartment,9.7,1,7,7.9,4919000.0
+Faridabad,1659,3,3,1,9,2,1,Furnished,Apartment,25.7,1,2,4.5,5207000.0
+Greater Noida,1719,3,3,2,3,1,20,Furnished,Apartment,3.5,3,5,7.6,6188000.0
+Ghaziabad,795,1,1,1,7,1,22,Semi-Furnished,Independent House,8.6,2,0,2.9,2680000.0
+Faridabad,1077,1,1,0,10,1,23,Unfurnished,Apartment,26.5,0,1,4.4,2112000.0
+Faridabad,2617,5,4,2,1,2,2,Furnished,Apartment,15.9,1,4,1.1,9058000.0
+Noida,1074,1,1,2,10,2,16,Unfurnished,Villa,25.0,8,3,7.8,5837000.0
+Delhi,1967,3,3,1,21,0,28,Furnished,Apartment,20.3,0,0,6.6,8635000.0
+Delhi,1943,3,3,1,9,1,6,Unfurnished,Apartment,33.3,8,6,8.4,9298000.0
+Ghaziabad,1230,2,1,2,15,1,28,Unfurnished,Apartment,21.3,6,1,5.1,2847000.0
+Ghaziabad,1520,2,1,2,15,1,20,Semi-Furnished,Villa,1.5,1,5,8.2,7231000.0
+Faridabad,1199,2,1,2,3,0,4,Semi-Furnished,Apartment,13.0,1,2,6.8,3204000.0
+Gurgaon,2398,4,3,1,5,2,22,Semi-Furnished,Independent House,5.9,4,7,1.0,17101000.0
+Noida,1420,3,2,3,9,0,0,Semi-Furnished,Independent House,32.4,4,7,3.3,7121000.0
+Noida,1710,3,2,1,22,1,7,Furnished,Apartment,4.5,3,6,5.4,8887000.0
+Faridabad,2787,5,5,2,9,1,11,Furnished,Builder Floor,14.2,9,1,6.6,9819000.0
+Greater Noida,2395,4,3,0,23,1,13,Furnished,Apartment,8.7,9,4,1.6,10608000.0
+Gurgaon,1833,3,2,2,7,2,15,Semi-Furnished,Apartment,29.8,2,3,7.3,6948000.0
+Faridabad,1770,3,3,1,24,2,9,Furnished,Independent House,11.5,3,4,5.9,6685000.0
+Gurgaon,1959,3,2,1,23,1,14,Semi-Furnished,Independent House,34.7,9,1,5.7,10654000.0
+Gurgaon,1477,3,3,1,12,1,20,Unfurnished,Builder Floor,2.3,3,0,3.6,7732000.0
+Gurgaon,1941,3,3,1,9,1,23,Semi-Furnished,Builder Floor,5.4,1,6,6.4,9920000.0
+Faridabad,1684,3,2,2,6,1,25,Semi-Furnished,Apartment,8.6,4,3,1.2,4641000.0
+Noida,739,1,1,2,23,0,14,Semi-Furnished,Apartment,28.6,4,7,1.6,3088000.0
+Noida,1952,3,3,3,2,1,9,Unfurnished,Apartment,30.9,4,6,7.6,6537000.0
+Gurgaon,1281,2,2,1,9,2,20,Unfurnished,Apartment,3.4,9,6,3.9,6572000.0
+Greater Noida,1561,2,2,2,17,1,27,Unfurnished,Apartment,2.1,0,3,4.1,4734000.0
+Delhi,857,1,1,2,1,2,6,Unfurnished,Apartment,26.3,5,7,2.9,4175000.0
+Faridabad,1759,3,3,1,19,0,25,Furnished,Apartment,5.5,1,7,5.0,5099000.0
+Delhi,1839,3,2,0,6,2,2,Unfurnished,Apartment,5.5,6,1,1.5,12430000.0
+Greater Noida,1269,2,2,2,5,0,1,Unfurnished,Builder Floor,1.8,3,5,3.7,6118000.0
+Faridabad,1533,3,3,3,2,1,5,Furnished,Independent House,2.7,4,5,5.7,7311000.0
+Gurgaon,1503,3,3,2,9,1,20,Unfurnished,Apartment,10.0,4,4,5.2,7082000.0
+Noida,1094,2,1,1,14,2,8,Furnished,Villa,3.2,4,1,10.0,8005000.0
+Delhi,1972,3,2,1,4,1,9,Semi-Furnished,Independent House,13.5,1,3,4.5,12972000.0
+Ghaziabad,2279,4,3,1,4,0,3,Furnished,Apartment,29.3,4,1,4.5,6973000.0
+Ghaziabad,2040,4,4,2,21,1,26,Semi-Furnished,Independent House,12.1,2,3,5.5,6991000.0
+Greater Noida,1412,3,3,2,15,1,2,Unfurnished,Builder Floor,25.7,3,6,2.7,4627000.0
+Gurgaon,1546,3,3,1,8,1,8,Semi-Furnished,Builder Floor,4.2,1,4,8.9,9102000.0
+Delhi,694,1,1,2,4,2,23,Semi-Furnished,Apartment,23.4,3,0,6.2,3009000.0
+Gurgaon,1292,2,1,1,16,1,21,Semi-Furnished,Builder Floor,11.8,8,6,2.7,6456000.0
+Delhi,624,1,1,3,21,1,16,Unfurnished,Apartment,26.5,7,7,8.1,2707000.0
+Greater Noida,2471,5,4,1,4,0,13,Furnished,Builder Floor,5.6,2,0,1.3,10159000.0
+Greater Noida,1504,2,2,1,16,1,9,Semi-Furnished,Builder Floor,31.5,0,1,9.8,4585000.0
+Ghaziabad,1165,2,1,1,22,1,12,Unfurnished,Builder Floor,9.2,0,3,8.8,3257000.0
+Gurgaon,1886,4,3,1,12,1,11,Unfurnished,Builder Floor,13.0,5,0,6.2,9080000.0
+Faridabad,2690,5,5,0,16,0,26,Semi-Furnished,Independent House,33.3,2,6,2.0,8523000.0
+Ghaziabad,1940,4,4,2,19,1,0,Unfurnished,Apartment,20.7,3,3,2.9,5426000.0
+Gurgaon,702,1,1,2,8,2,27,Unfurnished,Apartment,13.4,0,4,3.5,2452000.0
+Ghaziabad,825,1,1,2,6,1,21,Unfurnished,Independent House,33.3,7,6,3.2,2670000.0
+Faridabad,1574,2,2,0,10,1,28,Semi-Furnished,Apartment,12.2,0,7,5.5,3912000.0
+Noida,1293,2,1,1,5,1,18,Furnished,Apartment,4.2,4,1,9.5,6227000.0
+Noida,905,1,1,0,18,1,18,Furnished,Apartment,34.9,5,3,5.0,3418000.0
+Noida,1653,3,2,2,10,1,5,Furnished,Apartment,10.1,1,1,7.0,7228000.0
+Noida,2379,5,4,0,10,1,12,Semi-Furnished,Villa,29.9,6,3,7.2,14360000.0
+Delhi,1039,2,2,3,7,2,18,Furnished,Builder Floor,6.6,6,6,8.8,7407000.0
+Noida,1919,3,2,2,18,0,12,Semi-Furnished,Villa,25.9,0,5,1.3,11127000.0
+Faridabad,1945,3,2,1,1,1,26,Semi-Furnished,Builder Floor,18.8,3,5,4.6,4819000.0
+Greater Noida,1235,2,1,1,7,1,25,Furnished,Apartment,34.4,3,3,8.1,3434000.0
+Greater Noida,1862,3,3,1,21,1,21,Unfurnished,Apartment,19.8,4,4,8.3,4502000.0
+Delhi,1227,2,1,1,1,1,20,Semi-Furnished,Builder Floor,1.9,0,1,9.3,7328000.0
+Noida,1482,2,2,2,15,1,3,Furnished,Apartment,21.5,0,7,7.3,5727000.0
+Noida,1829,3,2,3,4,0,23,Unfurnished,Independent House,5.9,6,2,3.2,8996000.0
+Noida,1021,2,1,0,20,1,1,Furnished,Independent House,28.2,8,3,5.6,5944000.0
+Ghaziabad,2542,5,5,2,10,1,14,Unfurnished,Apartment,30.1,0,3,1.3,6139000.0
+Gurgaon,1039,2,1,2,23,1,11,Unfurnished,Villa,17.4,1,5,6.8,6194000.0
+Ghaziabad,1572,3,2,2,9,1,29,Semi-Furnished,Independent House,27.6,5,0,6.0,4806000.0
+Gurgaon,1838,3,3,0,2,1,26,Unfurnished,Builder Floor,5.9,5,6,7.0,8970000.0
+Noida,1178,2,1,1,14,2,6,Semi-Furnished,Apartment,17.7,1,5,9.4,4019000.0
+Noida,1197,1,1,1,16,1,19,Semi-Furnished,Apartment,14.4,8,1,7.2,4140000.0
+Ghaziabad,1532,3,2,2,1,1,17,Furnished,Builder Floor,21.8,3,5,3.9,5301000.0
+Ghaziabad,2150,4,3,1,2,2,22,Furnished,Apartment,2.5,6,2,2.8,8668000.0
+Gurgaon,2324,4,4,1,7,1,12,Unfurnished,Apartment,26.6,5,4,8.7,9751000.0
+Greater Noida,1939,3,2,3,10,0,16,Semi-Furnished,Independent House,3.7,2,6,2.7,9614000.0
+Gurgaon,2305,4,4,2,22,1,3,Semi-Furnished,Apartment,23.3,7,2,2.5,11676000.0
+Ghaziabad,1483,3,2,2,20,1,24,Semi-Furnished,Builder Floor,1.6,6,4,2.9,5741000.0
+Faridabad,1863,3,3,1,1,2,13,Semi-Furnished,Villa,29.3,8,2,5.6,8119000.0
+Ghaziabad,1742,3,2,1,13,2,19,Furnished,Independent House,6.9,2,7,2.1,7609000.0
+Faridabad,1679,3,3,3,1,1,27,Semi-Furnished,Apartment,18.5,0,6,9.4,3237000.0
+Delhi,2062,4,3,1,5,1,12,Unfurnished,Independent House,9.9,1,5,9.7,13018000.0
+Ghaziabad,1165,2,2,1,16,1,2,Furnished,Apartment,25.6,0,2,9.8,3534000.0
+Delhi,2092,4,4,1,15,1,25,Furnished,Apartment,11.9,4,5,1.4,11691000.0
+Greater Noida,1908,3,2,0,17,1,25,Furnished,Builder Floor,25.6,9,6,9.5,6726000.0
+Gurgaon,1579,2,2,1,23,1,17,Semi-Furnished,Apartment,10.7,1,5,10.0,6657000.0
+Faridabad,825,1,1,2,16,1,13,Unfurnished,Apartment,26.6,2,1,9.5,1727000.0
+Gurgaon,1169,2,1,3,13,0,14,Furnished,Builder Floor,2.0,7,5,7.0,8378000.0
+Delhi,1997,3,2,3,11,1,2,Furnished,Apartment,10.6,9,0,7.3,12278000.0
+Faridabad,2247,4,3,1,17,1,0,Semi-Furnished,Apartment,18.0,4,2,2.1,6924000.0
+Gurgaon,1501,2,1,1,17,2,25,Unfurnished,Apartment,2.5,3,6,8.9,6354000.0
+Ghaziabad,2326,4,4,0,2,0,23,Semi-Furnished,Independent House,7.3,4,3,1.5,8533000.0
+Noida,2178,4,3,2,13,2,16,Semi-Furnished,Builder Floor,32.8,9,3,3.9,8950000.0
+Delhi,1200,2,1,1,14,1,2,Unfurnished,Apartment,34.2,5,3,9.9,5792000.0
+Gurgaon,2049,4,3,2,11,1,13,Semi-Furnished,Apartment,26.2,6,6,4.8,8881000.0
+Delhi,2608,5,4,2,10,1,2,Unfurnished,Apartment,9.6,8,0,2.2,16175000.0
+Delhi,1524,3,2,1,3,1,12,Unfurnished,Apartment,9.9,0,5,9.7,7114000.0
+Faridabad,1912,4,3,1,17,1,14,Furnished,Independent House,23.0,3,2,9.9,5899000.0
+Faridabad,2336,5,5,3,15,1,17,Furnished,Apartment,5.0,8,4,2.7,8334000.0
+Noida,1895,3,3,3,9,1,13,Furnished,Apartment,33.2,4,4,8.8,7871000.0
+Ghaziabad,1149,2,1,1,10,1,20,Semi-Furnished,Builder Floor,8.6,7,6,4.5,3980000.0
+Delhi,2142,4,4,1,8,1,25,Unfurnished,Builder Floor,35.0,0,1,4.4,8265000.0
+Gurgaon,1979,3,2,3,21,0,2,Semi-Furnished,Builder Floor,17.9,3,0,3.4,9582000.0
+Greater Noida,1720,3,2,0,13,1,18,Furnished,Apartment,27.2,8,2,1.4,5839000.0
+Delhi,1531,2,1,1,18,2,7,Unfurnished,Apartment,1.1,0,5,3.4,9009000.0
+Delhi,2088,4,3,1,5,0,3,Semi-Furnished,Apartment,31.2,0,3,1.5,11112000.0
+Noida,1088,1,1,1,6,1,3,Furnished,Apartment,10.2,3,0,9.3,5211000.0
+Ghaziabad,2291,4,4,0,17,1,18,Semi-Furnished,Builder Floor,23.7,2,0,7.0,5751000.0
+Greater Noida,1251,2,2,1,11,1,10,Semi-Furnished,Independent House,28.4,6,2,9.0,4979000.0
+Faridabad,1076,2,2,1,20,0,0,Unfurnished,Independent House,6.6,2,6,7.5,4411000.0
+Faridabad,1791,3,3,1,16,1,7,Furnished,Independent House,16.0,0,5,2.2,7198000.0
+Gurgaon,1011,1,1,3,9,0,14,Furnished,Apartment,17.8,9,7,9.5,5192000.0
+Greater Noida,1572,3,3,2,2,0,0,Semi-Furnished,Builder Floor,11.6,1,7,9.1,6268000.0
+Faridabad,2000,4,3,2,5,1,6,Furnished,Apartment,17.4,9,6,4.1,6556000.0
+Gurgaon,2016,4,4,2,1,1,20,Semi-Furnished,Builder Floor,11.8,3,6,2.0,10379000.0
+Ghaziabad,1375,2,2,0,4,2,19,Semi-Furnished,Apartment,13.3,0,1,7.3,3356000.0
+Gurgaon,1585,2,2,1,4,0,19,Semi-Furnished,Apartment,23.8,0,6,7.6,6446000.0
+Faridabad,1810,4,4,3,22,1,23,Unfurnished,Apartment,22.5,7,5,9.1,3788000.0
+Noida,1811,4,3,1,3,0,10,Semi-Furnished,Villa,8.9,6,1,1.5,12025000.0
+Noida,1989,3,3,1,9,1,26,Furnished,Apartment,31.5,7,7,2.3,7346000.0
+Noida,1834,3,3,2,22,2,28,Semi-Furnished,Apartment,30.3,3,1,6.4,5963000.0
+Faridabad,1372,2,1,1,23,2,13,Unfurnished,Apartment,18.3,5,3,6.6,3457000.0
+Noida,2072,4,3,1,12,0,21,Unfurnished,Independent House,15.7,2,3,1.3,8457000.0
+Greater Noida,1975,3,3,3,10,1,15,Furnished,Builder Floor,13.8,7,7,4.6,7728000.0
+Ghaziabad,1508,2,1,2,2,1,13,Unfurnished,Builder Floor,25.0,3,2,6.3,4165000.0
+Gurgaon,1131,2,1,1,11,1,11,Semi-Furnished,Apartment,23.8,2,7,7.6,4496000.0
+Gurgaon,2118,4,3,3,10,0,16,Furnished,Builder Floor,7.7,3,5,3.8,13558000.0
+Faridabad,767,1,1,2,22,2,13,Furnished,Apartment,23.8,5,6,5.4,2256000.0
+Noida,1396,2,1,2,6,2,9,Furnished,Independent House,9.6,6,1,8.3,8640000.0
+Noida,1579,3,3,0,18,2,23,Unfurnished,Builder Floor,1.6,6,2,9.6,6664000.0
+Delhi,1057,2,2,1,2,1,28,Furnished,Apartment,24.8,3,1,3.1,5088000.0
+Ghaziabad,1079,1,1,2,2,1,13,Furnished,Apartment,22.9,7,0,3.3,3422000.0
+Greater Noida,2390,4,4,2,10,1,17,Unfurnished,Apartment,15.0,6,4,9.5,6597000.0
+Gurgaon,2259,4,3,2,16,0,21,Semi-Furnished,Apartment,18.9,1,4,4.6,8622000.0
+Delhi,1860,4,4,1,12,0,8,Furnished,Apartment,33.2,7,1,7.5,10249000.0
+Delhi,2168,4,3,1,1,1,16,Furnished,Builder Floor,21.2,8,2,6.5,13402000.0
+Faridabad,1520,3,3,2,21,1,5,Furnished,Apartment,23.4,4,7,3.6,4820000.0
+Gurgaon,2345,4,3,1,8,2,7,Furnished,Apartment,3.2,3,3,6.9,15330000.0
+Faridabad,1581,2,2,1,16,2,25,Semi-Furnished,Apartment,6.6,3,5,6.9,4642000.0
+Greater Noida,1416,3,2,0,18,2,12,Furnished,Apartment,11.2,3,1,6.3,5353000.0
+Delhi,2695,5,5,0,13,2,17,Furnished,Independent House,19.3,5,1,1.9,18757000.0
+Delhi,1496,2,2,2,15,1,4,Unfurnished,Apartment,27.4,3,5,10.0,7132000.0
+Ghaziabad,1504,2,1,2,21,1,5,Semi-Furnished,Builder Floor,11.9,6,7,4.6,5979000.0
+Greater Noida,1931,3,3,1,12,1,20,Semi-Furnished,Independent House,13.1,6,6,6.7,8101000.0
+Delhi,1314,2,2,1,8,1,18,Semi-Furnished,Builder Floor,9.7,4,3,9.0,7909000.0
+Greater Noida,668,1,1,2,10,2,3,Semi-Furnished,Independent House,9.7,4,1,4.8,3170000.0
+Gurgaon,1960,4,3,1,14,2,6,Semi-Furnished,Apartment,33.3,9,0,8.0,8556000.0
+Noida,2344,5,5,1,5,0,3,Semi-Furnished,Villa,22.6,7,3,9.7,13181000.0
+Delhi,1968,3,3,3,18,0,24,Semi-Furnished,Apartment,6.3,6,0,4.2,10206000.0
+Ghaziabad,1194,1,1,1,19,1,10,Unfurnished,Apartment,25.6,6,4,4.6,3499000.0
+Gurgaon,984,1,1,3,15,1,11,Furnished,Builder Floor,25.5,5,5,9.2,5678000.0
+Greater Noida,2068,4,3,1,6,2,13,Unfurnished,Villa,23.7,6,3,2.4,9655000.0
+Faridabad,1853,3,2,2,11,1,12,Furnished,Independent House,5.6,6,6,1.3,9035000.0
+Gurgaon,1517,2,1,1,21,0,28,Unfurnished,Apartment,14.9,9,3,9.2,5418000.0
+Delhi,1749,3,3,3,11,1,9,Semi-Furnished,Apartment,4.6,1,2,8.4,9795000.0
+Greater Noida,1109,2,2,1,20,0,17,Unfurnished,Villa,28.8,9,2,9.8,4607000.0
+Noida,1882,3,3,1,20,0,15,Furnished,Apartment,23.3,1,5,1.5,7478000.0
+Gurgaon,2206,4,3,3,21,2,4,Semi-Furnished,Independent House,18.2,9,6,2.4,13492000.0
+Delhi,1450,3,3,1,18,1,7,Semi-Furnished,Independent House,12.7,6,3,1.9,10824000.0
+Ghaziabad,1802,3,2,1,18,1,13,Unfurnished,Apartment,7.3,9,7,7.2,5272000.0
+Faridabad,1562,2,1,1,10,0,4,Semi-Furnished,Apartment,4.6,6,4,6.5,5979000.0
+Greater Noida,1875,3,3,2,2,1,25,Semi-Furnished,Apartment,34.0,6,6,4.2,5287000.0
+Gurgaon,1486,3,2,0,9,2,27,Semi-Furnished,Apartment,7.8,4,1,1.5,7542000.0
+Gurgaon,1067,2,1,0,14,1,23,Semi-Furnished,Independent House,3.0,0,5,6.8,6060000.0
+Noida,1995,3,3,2,19,1,7,Semi-Furnished,Apartment,33.7,1,7,6.1,6972000.0
+Noida,1041,2,1,1,10,1,24,Furnished,Independent House,19.7,8,6,2.0,5266000.0
+Ghaziabad,1856,4,3,3,23,1,25,Unfurnished,Apartment,28.1,7,5,9.2,4344000.0
+Faridabad,1595,3,3,3,4,1,5,Unfurnished,Villa,2.5,7,6,2.8,8845000.0
+Ghaziabad,2261,5,4,2,6,1,15,Unfurnished,Apartment,20.3,9,2,7.7,5285000.0
+Delhi,862,1,1,2,14,2,27,Furnished,Apartment,14.5,0,4,9.0,3629000.0
+Delhi,1911,4,4,2,4,1,3,Unfurnished,Apartment,27.2,5,5,6.2,9845000.0
+Ghaziabad,1577,3,3,1,15,1,11,Unfurnished,Independent House,2.3,8,4,3.2,6593000.0
+Faridabad,1825,4,4,2,16,0,10,Semi-Furnished,Builder Floor,14.7,7,5,3.8,5735000.0
+Ghaziabad,1409,2,2,1,7,1,2,Semi-Furnished,Independent House,28.2,2,2,9.0,4965000.0
+Faridabad,1930,3,2,1,17,2,11,Semi-Furnished,Apartment,18.8,3,1,3.7,4663000.0
+Faridabad,2116,4,3,2,19,1,29,Unfurnished,Apartment,19.7,2,7,7.7,4061000.0
+Greater Noida,1531,2,2,1,19,1,4,Semi-Furnished,Builder Floor,4.3,5,2,9.9,6116000.0
+Faridabad,1105,2,1,2,17,2,5,Furnished,Apartment,5.5,8,5,10.0,4398000.0
+Noida,1863,3,2,1,6,1,18,Semi-Furnished,Apartment,24.0,7,4,5.8,6605000.0
+Faridabad,1645,3,3,2,11,1,17,Unfurnished,Villa,24.0,9,0,8.4,5917000.0
+Faridabad,1080,2,2,0,16,1,15,Unfurnished,Villa,34.3,3,2,9.9,3495000.0
+Faridabad,1395,2,1,2,8,1,22,Unfurnished,Villa,25.2,1,4,4.4,4841000.0
+Delhi,1521,2,2,2,11,1,10,Semi-Furnished,Independent House,17.8,7,6,3.3,9698000.0
+Noida,2063,4,4,2,7,1,4,Furnished,Apartment,30.1,7,6,2.0,9815000.0
+Noida,1673,3,3,1,24,1,8,Furnished,Apartment,4.6,5,2,2.3,9732000.0
+Ghaziabad,1971,4,3,0,22,2,2,Furnished,Builder Floor,16.3,7,5,8.7,7639000.0
+Greater Noida,2464,5,5,1,19,0,29,Furnished,Independent House,10.8,8,6,6.3,11186000.0
+Faridabad,1425,3,2,2,10,1,7,Semi-Furnished,Apartment,4.6,0,4,8.9,4580000.0
+Gurgaon,1068,1,1,3,9,0,5,Furnished,Apartment,27.0,8,7,8.1,5374000.0
+Greater Noida,1075,1,1,1,4,2,3,Semi-Furnished,Apartment,18.4,1,1,7.1,3210000.0
+Greater Noida,1355,2,2,2,23,0,11,Unfurnished,Builder Floor,19.9,0,4,6.5,3976000.0
+Noida,2225,5,5,2,15,1,11,Semi-Furnished,Independent House,15.0,7,6,1.4,12413000.0
+Greater Noida,1433,3,3,1,13,0,24,Unfurnished,Independent House,16.7,7,6,8.9,4375000.0
+Faridabad,1263,2,2,2,2,1,20,Semi-Furnished,Apartment,4.9,3,3,4.8,4028000.0
+Faridabad,1137,2,2,2,2,2,15,Furnished,Villa,23.9,7,0,6.0,4806000.0
+Delhi,1965,3,2,1,16,1,9,Semi-Furnished,Builder Floor,15.7,6,5,1.2,12512000.0
+Faridabad,1861,3,2,1,9,1,21,Furnished,Apartment,28.8,1,4,9.4,4377000.0
+Faridabad,1167,2,1,0,13,1,13,Semi-Furnished,Apartment,7.7,4,6,9.1,3414000.0
+Noida,2280,5,5,3,3,1,12,Semi-Furnished,Apartment,8.0,9,5,5.9,10529000.0
+Faridabad,1806,3,2,3,9,2,8,Furnished,Apartment,23.0,3,2,6.2,5238000.0
+Delhi,1573,2,1,2,13,1,6,Furnished,Villa,29.8,2,2,7.3,13967000.0
+Gurgaon,1845,4,4,0,21,1,11,Semi-Furnished,Apartment,17.1,0,4,3.4,8342000.0
+Noida,1198,1,1,1,22,1,4,Unfurnished,Independent House,25.7,4,3,3.0,5736000.0
+Gurgaon,1852,4,3,1,2,1,17,Unfurnished,Apartment,35.0,9,6,7.1,7884000.0
+Noida,2675,5,4,0,8,1,3,Unfurnished,Apartment,34.7,7,4,1.9,10993000.0
+Ghaziabad,1991,3,3,2,9,1,1,Furnished,Apartment,26.3,8,1,5.1,6866000.0
+Greater Noida,1815,4,4,3,16,1,2,Unfurnished,Apartment,26.1,6,3,5.4,5526000.0
+Ghaziabad,1359,2,2,3,2,1,25,Unfurnished,Apartment,9.4,0,6,4.4,3319000.0
+Faridabad,2686,5,5,2,6,1,11,Semi-Furnished,Villa,29.3,0,6,2.7,11040000.0
+Gurgaon,1901,3,2,0,22,0,2,Unfurnished,Builder Floor,14.8,0,5,4.2,9932000.0
+Faridabad,1540,3,2,1,8,1,3,Semi-Furnished,Builder Floor,33.7,1,4,4.0,4548000.0
+Greater Noida,2246,4,4,1,5,2,5,Unfurnished,Apartment,3.8,0,6,5.5,7685000.0
+Noida,2489,5,4,2,9,0,11,Unfurnished,Apartment,15.8,3,5,7.1,8673000.0
+Greater Noida,2008,4,3,2,1,1,18,Furnished,Apartment,19.9,9,6,9.7,5934000.0
+Delhi,1474,2,2,1,9,1,9,Semi-Furnished,Builder Floor,14.8,8,0,2.3,8952000.0
+Greater Noida,2612,5,4,1,10,1,29,Unfurnished,Apartment,8.2,3,3,8.9,7488000.0
+Delhi,1826,3,2,0,23,2,0,Furnished,Apartment,21.2,3,4,3.6,11045000.0
+Greater Noida,2570,5,4,1,4,2,16,Semi-Furnished,Builder Floor,26.7,6,0,6.3,8632000.0
+Delhi,1689,3,3,1,3,1,15,Unfurnished,Apartment,22.9,8,4,5.9,7732000.0
+Gurgaon,1431,2,2,1,10,1,8,Semi-Furnished,Apartment,9.0,6,1,6.0,7695000.0
+Faridabad,1267,2,1,1,15,2,24,Furnished,Apartment,25.9,0,2,7.5,2800000.0
+Faridabad,1550,3,3,2,11,1,20,Semi-Furnished,Villa,9.7,0,7,4.4,6274000.0
+Ghaziabad,2054,4,4,2,14,0,8,Furnished,Builder Floor,7.0,3,5,3.9,9265000.0
+Faridabad,1352,2,2,0,6,1,26,Semi-Furnished,Apartment,24.5,3,4,8.7,2860000.0
+Noida,1776,3,2,1,12,2,22,Furnished,Apartment,29.7,0,3,3.0,6257000.0
+Greater Noida,1357,2,1,1,13,2,8,Semi-Furnished,Villa,17.4,5,4,2.6,6996000.0
+Ghaziabad,2169,4,4,1,17,0,11,Semi-Furnished,Builder Floor,19.1,9,4,1.1,6893000.0
+Noida,1626,3,2,1,16,1,22,Unfurnished,Apartment,11.3,1,4,2.9,5386000.0
+Noida,902,1,1,1,3,2,8,Semi-Furnished,Independent House,17.8,4,7,5.7,4189000.0
+Delhi,1388,2,1,2,2,1,14,Semi-Furnished,Apartment,5.5,7,6,5.8,9054000.0
+Faridabad,976,1,1,2,11,1,1,Semi-Furnished,Builder Floor,33.5,2,4,3.3,3225000.0
+Gurgaon,1517,3,2,1,9,1,10,Furnished,Builder Floor,28.2,8,6,1.7,8884000.0
+Gurgaon,1004,2,2,2,3,1,10,Semi-Furnished,Apartment,23.7,6,3,7.7,4718000.0
+Ghaziabad,1443,2,1,1,18,0,7,Furnished,Villa,19.3,8,3,7.8,6583000.0
+Gurgaon,2551,5,4,0,20,1,22,Unfurnished,Independent House,27.9,0,4,10.0,10707000.0
+Greater Noida,2332,4,3,2,15,2,5,Furnished,Builder Floor,17.8,4,6,9.1,8680000.0
+Gurgaon,1523,3,3,2,14,1,20,Semi-Furnished,Apartment,11.2,2,2,9.3,5953000.0
+Ghaziabad,2476,5,5,3,2,1,19,Semi-Furnished,Apartment,6.5,3,4,8.2,7922000.0
+Gurgaon,993,1,1,2,17,1,6,Semi-Furnished,Apartment,23.0,3,5,6.5,4380000.0
+Greater Noida,1759,3,2,3,22,0,2,Furnished,Independent House,32.6,6,5,2.2,9298000.0
+Delhi,1868,3,3,3,8,1,7,Semi-Furnished,Apartment,6.2,9,3,6.6,11539000.0
+Ghaziabad,1456,3,3,2,10,1,17,Semi-Furnished,Builder Floor,7.1,7,7,1.5,5077000.0
+Delhi,1250,2,2,1,18,2,16,Unfurnished,Independent House,15.7,9,5,9.0,7192000.0
+Delhi,1549,3,3,2,19,0,10,Semi-Furnished,Apartment,28.4,4,5,5.3,8042000.0
+Delhi,1851,3,2,3,8,1,1,Semi-Furnished,Builder Floor,11.0,9,1,7.3,11579000.0
+Noida,1561,3,3,2,8,1,24,Semi-Furnished,Apartment,9.6,6,4,1.5,6185000.0
+Faridabad,1119,2,2,1,3,2,20,Semi-Furnished,Villa,22.1,2,4,5.8,3835000.0
+Noida,1581,2,1,2,3,0,26,Semi-Furnished,Apartment,19.2,2,4,3.7,5546000.0
+Faridabad,1350,2,1,1,12,0,23,Semi-Furnished,Apartment,3.0,2,4,3.6,4071000.0
+Delhi,1098,2,2,1,22,1,18,Furnished,Apartment,3.8,3,0,4.5,6373000.0
+Ghaziabad,1566,3,2,1,17,2,6,Furnished,Apartment,22.9,5,4,1.0,5893000.0
+Faridabad,1513,2,2,2,4,1,17,Furnished,Independent House,16.8,4,7,5.2,5177000.0
+Greater Noida,2200,4,3,2,17,1,7,Furnished,Independent House,34.0,7,6,5.4,9708000.0
+Greater Noida,1364,2,1,1,14,0,13,Semi-Furnished,Builder Floor,24.1,4,3,8.8,4243000.0
+Gurgaon,1576,2,2,0,19,1,6,Semi-Furnished,Apartment,1.3,4,6,5.0,10019000.0
+Faridabad,1725,3,2,1,9,0,27,Furnished,Apartment,17.4,9,7,4.3,4351000.0
+Ghaziabad,1180,1,1,2,21,1,20,Unfurnished,Apartment,15.1,1,3,10.0,2581000.0
+Noida,1646,3,2,1,12,1,27,Furnished,Builder Floor,4.6,4,0,6.1,8267000.0
+Delhi,1833,3,3,1,5,1,26,Unfurnished,Independent House,32.4,6,4,5.3,9127000.0
+Gurgaon,1092,2,1,1,11,1,3,Semi-Furnished,Apartment,28.4,1,2,5.5,4781000.0
+Greater Noida,867,1,1,1,20,1,16,Semi-Furnished,Apartment,8.8,5,6,8.3,2927000.0
+Noida,1320,2,1,1,3,2,4,Furnished,Builder Floor,9.7,6,4,4.1,7775000.0
+Noida,661,1,1,2,21,2,11,Semi-Furnished,Independent House,2.1,4,3,4.5,4310000.0
+Delhi,1299,2,1,0,15,1,8,Semi-Furnished,Independent House,11.1,8,6,7.8,9098000.0
+Faridabad,1402,2,2,2,14,1,25,Unfurnished,Independent House,20.9,3,1,1.7,3508000.0
+Greater Noida,1566,2,1,1,11,1,19,Semi-Furnished,Apartment,15.3,9,5,8.8,4498000.0
+Ghaziabad,1702,3,3,1,20,2,12,Unfurnished,Apartment,34.0,0,1,4.9,3772000.0
+Noida,1652,3,3,1,8,1,24,Furnished,Independent House,2.9,7,2,6.2,9874000.0
+Delhi,1877,3,3,2,4,1,27,Unfurnished,Builder Floor,21.1,7,4,7.8,7748000.0
+Ghaziabad,1368,2,1,3,12,1,17,Semi-Furnished,Apartment,30.2,6,0,3.4,3515000.0
+Faridabad,1159,2,2,3,8,2,19,Unfurnished,Independent House,17.3,7,4,9.0,3282000.0
+Greater Noida,1965,4,3,2,6,1,8,Furnished,Independent House,1.1,1,2,9.8,9703000.0
+Faridabad,1604,3,3,1,15,1,3,Semi-Furnished,Builder Floor,9.3,2,2,5.4,5495000.0
+Noida,2066,4,4,2,12,1,20,Semi-Furnished,Builder Floor,12.0,8,5,9.4,7877000.0
+Ghaziabad,1137,2,2,2,16,1,26,Unfurnished,Apartment,33.8,0,2,1.0,2676000.0
+Ghaziabad,1767,3,3,1,16,1,7,Semi-Furnished,Builder Floor,32.0,7,1,9.0,5150000.0
+Ghaziabad,1842,3,3,2,21,0,0,Unfurnished,Builder Floor,33.3,7,5,3.8,6500000.0
+Noida,1566,2,1,1,20,1,16,Furnished,Independent House,29.1,6,4,3.8,7977000.0
+Noida,1416,3,3,1,20,2,24,Unfurnished,Independent House,13.0,4,6,3.1,6366000.0
+Faridabad,1467,3,3,1,4,1,8,Unfurnished,Independent House,31.8,3,4,3.9,4497000.0
+Gurgaon,1132,2,1,1,11,1,19,Unfurnished,Apartment,34.4,9,0,2.9,4554000.0
+Faridabad,1429,2,1,1,13,0,12,Semi-Furnished,Independent House,12.9,9,2,9.2,4684000.0
+Greater Noida,2107,4,3,1,9,1,1,Semi-Furnished,Independent House,9.9,9,2,9.1,9714000.0
+Delhi,1973,4,4,1,4,2,12,Unfurnished,Builder Floor,19.6,9,3,1.9,10873000.0
+Ghaziabad,1411,2,2,1,12,1,8,Furnished,Independent House,7.4,5,5,2.3,7291000.0
+Gurgaon,1096,2,2,2,9,1,29,Semi-Furnished,Independent House,2.1,0,3,8.8,6290000.0
+Delhi,1153,2,2,2,13,2,19,Semi-Furnished,Apartment,33.2,4,5,4.6,5101000.0
+Gurgaon,1641,3,3,1,16,2,5,Unfurnished,Builder Floor,32.5,3,1,2.5,7551000.0
+Faridabad,1303,2,2,0,6,2,27,Furnished,Apartment,6.5,3,5,5.6,4069000.0
+Noida,2484,5,4,1,10,1,0,Semi-Furnished,Apartment,14.9,6,4,4.8,10141000.0
+Ghaziabad,1026,2,1,3,13,0,27,Unfurnished,Builder Floor,29.3,8,0,3.0,2482000.0
+Faridabad,1401,2,2,1,7,1,24,Furnished,Independent House,23.5,7,6,7.5,4395000.0
+Delhi,1759,3,3,1,19,1,4,Unfurnished,Apartment,14.4,7,5,6.7,8794000.0
+Delhi,1859,4,4,0,24,0,2,Furnished,Apartment,26.3,4,5,1.9,11854000.0
+Delhi,1601,3,3,2,19,1,3,Semi-Furnished,Builder Floor,31.5,5,5,9.3,9351000.0
+Delhi,1980,3,3,1,17,0,0,Furnished,Apartment,32.5,1,0,6.0,11502000.0
+Delhi,2569,5,4,1,13,1,13,Furnished,Apartment,13.9,2,2,3.3,14132000.0
+Gurgaon,1132,1,1,1,13,1,8,Unfurnished,Apartment,6.9,4,0,2.9,6135000.0
+Faridabad,1951,4,4,1,21,1,29,Semi-Furnished,Apartment,32.0,1,7,2.2,4635000.0
+Ghaziabad,1101,2,1,2,2,1,23,Semi-Furnished,Apartment,4.1,2,7,4.8,3631000.0
+Noida,2245,4,4,2,10,2,3,Furnished,Apartment,25.5,3,7,2.2,10907000.0
+Noida,1628,3,3,2,22,1,17,Semi-Furnished,Apartment,5.8,5,2,4.7,7331000.0
+Faridabad,1124,2,2,2,13,1,13,Semi-Furnished,Independent House,14.2,4,7,2.3,3957000.0
+Faridabad,2035,4,3,1,9,2,24,Semi-Furnished,Builder Floor,15.0,9,6,6.9,5277000.0
+Noida,761,1,1,2,1,1,3,Semi-Furnished,Independent House,6.4,3,4,8.1,4217000.0
+Noida,1553,2,2,2,14,2,24,Unfurnished,Apartment,32.4,1,0,5.9,4591000.0
+Gurgaon,1752,3,2,1,16,0,9,Semi-Furnished,Apartment,1.1,4,2,7.1,10941000.0
+Greater Noida,1067,2,1,2,20,1,2,Semi-Furnished,Independent House,31.4,4,4,9.4,4474000.0
+Ghaziabad,1572,3,3,1,15,0,22,Furnished,Apartment,31.1,6,4,6.7,4776000.0
+Delhi,1158,1,1,1,1,1,6,Unfurnished,Apartment,11.8,0,2,4.3,6052000.0
+Greater Noida,1260,2,1,2,17,2,9,Semi-Furnished,Builder Floor,24.9,3,7,5.0,4410000.0
+Faridabad,1216,2,2,2,24,0,12,Semi-Furnished,Builder Floor,9.6,4,2,8.7,3865000.0
+Noida,1123,2,2,2,13,1,3,Furnished,Apartment,26.8,7,1,2.2,5080000.0
+Greater Noida,1561,3,2,1,15,1,17,Unfurnished,Apartment,20.1,7,4,3.9,4438000.0
+Ghaziabad,2000,4,4,2,16,1,10,Furnished,Builder Floor,11.2,0,2,6.2,6423000.0
+Faridabad,2253,4,3,1,16,1,24,Unfurnished,Apartment,14.6,4,4,7.1,5009000.0
+Delhi,2201,4,4,1,2,1,3,Semi-Furnished,Builder Floor,24.5,9,7,7.9,13288000.0
+Delhi,1461,2,2,3,17,0,23,Furnished,Independent House,31.8,0,0,3.9,8080000.0
+Ghaziabad,1674,3,3,2,11,1,13,Unfurnished,Villa,5.4,0,6,2.3,8400000.0
+Ghaziabad,1205,2,2,1,8,1,17,Semi-Furnished,Apartment,20.4,1,3,9.6,2786000.0
+Noida,1039,2,1,2,20,1,7,Unfurnished,Independent House,9.6,1,7,1.7,5022000.0
+Delhi,1672,3,3,0,3,1,26,Unfurnished,Builder Floor,28.2,8,3,1.9,8329000.0
+Faridabad,692,1,1,0,12,2,9,Unfurnished,Apartment,3.4,3,5,5.5,2235000.0
+Greater Noida,1041,2,2,1,20,1,4,Furnished,Apartment,24.4,2,2,8.4,3350000.0
+Faridabad,2664,5,4,3,16,1,22,Unfurnished,Independent House,6.9,0,2,8.0,7833000.0
+Gurgaon,1778,3,2,1,14,0,6,Semi-Furnished,Apartment,21.3,1,7,9.4,7508000.0
+Gurgaon,1506,3,3,2,16,1,11,Unfurnished,Apartment,29.4,5,4,2.3,7250000.0
+Ghaziabad,927,1,1,1,21,1,24,Semi-Furnished,Apartment,26.7,8,7,4.4,2454000.0
+Noida,1064,2,2,2,17,0,2,Unfurnished,Independent House,26.6,4,5,3.5,4885000.0
+Gurgaon,2164,4,4,1,11,1,25,Semi-Furnished,Independent House,18.6,3,7,8.7,10234000.0
+Delhi,1483,2,2,2,17,1,3,Semi-Furnished,Independent House,31.3,4,2,5.4,10323000.0
+Faridabad,1423,3,3,1,19,1,9,Furnished,Apartment,21.0,8,7,1.2,4771000.0
+Faridabad,1139,1,1,2,22,1,3,Unfurnished,Apartment,32.2,6,4,7.4,3177000.0
+Ghaziabad,1461,3,3,3,1,1,14,Semi-Furnished,Builder Floor,19.6,7,2,4.5,4282000.0
+Greater Noida,1090,1,1,2,12,0,28,Semi-Furnished,Apartment,18.2,3,4,5.8,3137000.0
+Ghaziabad,2072,4,4,1,15,2,9,Unfurnished,Apartment,8.6,7,7,9.0,6527000.0
+Greater Noida,2028,4,4,3,18,0,20,Semi-Furnished,Builder Floor,19.5,5,2,3.3,6848000.0
+Ghaziabad,1819,4,4,0,23,1,29,Furnished,Villa,5.8,4,1,3.2,9147000.0
+Ghaziabad,1002,2,2,2,14,1,21,Semi-Furnished,Independent House,30.6,6,6,3.4,3609000.0
+Ghaziabad,2220,4,3,2,1,2,15,Semi-Furnished,Independent House,24.0,5,4,4.0,8079000.0
+Greater Noida,1706,3,2,0,13,0,14,Semi-Furnished,Villa,34.8,2,6,2.0,8647000.0
+Greater Noida,1431,2,1,1,15,1,18,Furnished,Apartment,4.1,4,1,7.3,5396000.0
+Ghaziabad,1535,3,2,1,7,1,28,Furnished,Builder Floor,9.2,8,1,2.9,5113000.0
+Gurgaon,1114,1,1,2,15,1,19,Furnished,Villa,30.8,6,1,9.3,7378000.0
+Noida,1192,2,1,2,20,1,18,Unfurnished,Apartment,14.4,3,1,2.9,3959000.0
+Noida,1984,3,3,1,10,1,17,Furnished,Independent House,16.9,6,0,3.3,9831000.0
+Noida,1414,2,2,1,14,2,25,Semi-Furnished,Builder Floor,30.3,4,6,3.7,5302000.0
+Greater Noida,1517,3,3,1,6,0,11,Unfurnished,Builder Floor,18.7,1,7,7.9,4501000.0
+Greater Noida,1208,2,2,1,14,0,24,Furnished,Builder Floor,7.6,5,5,4.8,5292000.0
+Gurgaon,1833,4,4,1,24,2,15,Semi-Furnished,Villa,31.3,6,7,8.4,11665000.0
+Noida,2517,5,5,2,22,0,0,Unfurnished,Independent House,2.1,7,7,8.1,14943000.0
+Noida,1919,4,3,0,12,2,15,Unfurnished,Apartment,31.4,5,6,9.4,6680000.0
+Ghaziabad,1524,2,2,2,11,1,1,Unfurnished,Independent House,2.7,7,7,7.8,6966000.0
+Greater Noida,1580,2,1,2,20,1,23,Unfurnished,Apartment,23.6,6,3,1.5,4424000.0
+Noida,1488,3,2,1,22,0,14,Unfurnished,Apartment,3.4,1,0,8.5,5494000.0
+Faridabad,1111,1,1,2,24,1,6,Semi-Furnished,Apartment,25.0,5,7,9.4,3037000.0
+Gurgaon,646,1,1,1,19,1,27,Unfurnished,Apartment,2.2,8,2,9.9,2754000.0
+Faridabad,1921,3,3,1,2,2,0,Furnished,Apartment,29.6,5,7,2.1,6731000.0
+Faridabad,1683,3,3,1,22,2,4,Unfurnished,Villa,16.8,3,2,6.5,6998000.0
+Gurgaon,2576,5,5,1,20,0,9,Semi-Furnished,Independent House,4.2,6,5,2.8,19972000.0
+Faridabad,1133,2,2,1,1,0,21,Semi-Furnished,Builder Floor,25.0,2,3,3.4,2760000.0
+Noida,1247,2,2,0,8,0,20,Furnished,Apartment,17.6,4,3,7.7,4855000.0
+Greater Noida,1317,2,1,1,14,2,3,Unfurnished,Villa,7.5,0,3,9.8,6414000.0
+Gurgaon,2235,4,4,0,9,1,13,Furnished,Villa,1.5,9,1,6.4,20561000.0
+Ghaziabad,1975,4,4,1,2,0,12,Unfurnished,Independent House,15.2,2,0,8.7,6112000.0
+Faridabad,2385,4,3,0,23,1,0,Unfurnished,Apartment,3.9,7,7,1.1,8360000.0
+Gurgaon,2150,4,4,1,5,1,15,Furnished,Apartment,4.2,8,2,1.3,14688000.0
+Delhi,1542,3,3,1,23,2,22,Unfurnished,Apartment,10.1,8,0,6.4,6942000.0
+Delhi,1797,3,2,3,8,1,8,Unfurnished,Apartment,22.4,9,0,4.5,8728000.0
+Greater Noida,1368,2,2,0,16,1,21,Semi-Furnished,Apartment,19.0,1,0,9.0,3380000.0
+Noida,1900,3,3,2,22,1,15,Semi-Furnished,Villa,3.3,3,3,3.7,12991000.0
+Greater Noida,1769,3,3,1,16,1,18,Furnished,Apartment,33.9,4,5,4.9,6035000.0
